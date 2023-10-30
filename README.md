@@ -3,5 +3,6 @@ Assignments and project repository for SI507: Intermediate Programming, Universi
 
 **Links**
 
-- Assignments: https://github.com/HumblePasty/SI507/Assignments
+- [Assignments](https://github.com/HumblePasty/SI507/tree/master/Assignments)
+- Project Proposal
 - Projetct Website: [TBD]

@@ -127,7 +127,7 @@ class DetroitDistrict:
         params = {
             "latitude": self.RandomLat,
             "longitude": self.RandomLong,
-            "censusYear": 2020,
+            "censusYear": 2010,
             "format": "json"
         }
 
@@ -152,7 +152,7 @@ class DetroitDistrict:
             "get": "B19013_001E",  # median household income
             "for": f"tract:{self.CensusTract[5:11]}",
             "in": f"state:{self.CensusTract[:2]} county:{self.CensusTract[2:5]}",
-            "key": "e3ad0cfc73b38d5637c909f70a91a7dcc9d40210" # it seems that using key will cause blank return for some districts
+            "key": "e3ad0cfc73b38d5637c909f70a91a7dcc9d40210"
         }
 
         # response = requests.get(base_url)
@@ -204,7 +204,7 @@ class DetroitDistrict:
 # with open('Districts.pickle', 'rb') as file:
 #     Districts = pickle.load(file)
 #
-# # Convert each DetroitDistrict object to a dictionary
+# Convert each DetroitDistrict object to a dictionary
 # districts_data = [district.to_dict() for district in Districts]
 #
 # # Save the list of dictionaries to a JSON file
@@ -293,17 +293,22 @@ D_incomes = [int(district.MedianIncome) for district in Districts if
              district.HolcGrade == 'D' and district.MedianIncome is not None]
 
 # Calculate mean and median incomes for each grade
-A_mean_income = sum(A_incomes) / len(A_incomes) if A_incomes else 0
-A_median_income = sorted(A_incomes)[len(A_incomes) // 2] if A_incomes else 0
-
-B_mean_income = sum(B_incomes) / len(B_incomes) if B_incomes else 0
-B_median_income = sorted(B_incomes)[len(B_incomes) // 2] if B_incomes else 0
-
-C_mean_income = sum(C_incomes) / len(C_incomes) if C_incomes else 0
-C_median_income = sorted(C_incomes)[len(C_incomes) // 2] if C_incomes else 0
-
-D_mean_income = sum(D_incomes) / len(D_incomes) if D_incomes else 0
-D_median_income = sorted(D_incomes)[len(D_incomes) // 2] if D_incomes else 0
+A_mean_income = sum(A_incomes) / len(A_incomes)
+A_median_income = sorted(A_incomes)[len(A_incomes) // 2]
+print(f"Mean avarage of income in A: {A_mean_income}")
+print(f"Median of income in A: {A_median_income}")
+B_mean_income = sum(B_incomes) / len(B_incomes)
+B_median_income = sorted(B_incomes)[len(B_incomes) // 2]
+print(f"Mean avarage of income in B: {B_mean_income}")
+print(f"Median of income in B: {B_median_income}")
+C_mean_income = sum(C_incomes) / len(C_incomes)
+C_median_income = sorted(C_incomes)[len(C_incomes) // 2]
+print(f"Mean avarage of income in C: {C_mean_income}")
+print(f"Median of income in C: {C_median_income}")
+D_mean_income = sum(D_incomes) / len(D_incomes)
+D_median_income = sorted(D_incomes)[len(D_incomes) // 2]
+print(f"Mean avarage of income in D: {D_mean_income}")
+print(f"Median of income in D: {D_median_income}")
 
 # Step 9: Use a list comprehension or other method to combine all the qualitative description strings for each
 # district category.

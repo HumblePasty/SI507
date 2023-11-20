@@ -56,7 +56,7 @@
         "QualitativeDescription": "60% developed. All city facilities. Highly restricted. High income group. Good approach. Good layout. Exclusive character. Well maintained. All HOLC loans are west of Stratheona Drive, in heavily wooded section. There are a number of properties for sale. East of Parkside properties are estates valued at from $30,000 to $75,000. All streets paved - no alleys. Demand for such high priced properties is limited - Loans should not exceed $12,000. Current newspaper advertising is of just one home at $30,000. Homes here are largely built to order and resell generally, only at great sacrifice. Some local important lenders have a ceiling of $18,000 for the area, even though the loan may be on the most expensive property. This is the most desirable area within the city limits. *see explanantion sheet for Area Descriptions.",
         "RandomLat": 42.435999999999815,
         "RandomLong": -83.12399999999954,
-        "MedianIncome": "110870",
+        "MedianIncome": 110870,
         "CensusTract": "26163538200",
         "PercentBlack": 0.7880886426592798
     },
@@ -117,7 +117,7 @@
         "QualitativeDescription": "The neighborhood will probably hold up very well during the next ten years, although many of these houses are large mansions and, as such, slow to sell. Houses on Roosevelt are old frame structures valued $4000-6000 and not typical of the neighborhood. Reputation of Grosse Pointe Village is most favorable.",
         "RandomLat": 42.38799999999984,
         "RandomLong": -82.90399999999927,
-        "MedianIncome": "118661",
+        "MedianIncome": 118661,
         "CensusTract": "26163550500",
         "PercentBlack": 0.019330247753879662
     },
@@ -186,7 +186,7 @@
         "QualitativeDescription": "This is a new section of modest houses, well lcoated in restricted area. Development continues at a steady pace and futuer of the neighborhood appears stable. Lots are only 40 feet which is the primary objection to this development in an otherwise high grade area.",
         "RandomLat": 42.40399999999983,
         "RandomLong": -82.90799999999928,
-        "MedianIncome": "113220",
+        "MedianIncome": 113220,
         "CensusTract": "26163550700",
         "PercentBlack": 0.033597583993959984
     },
@@ -379,7 +379,7 @@
         "QualitativeDescription": "A high class residential neighborhood of good houses in attractive surroundings. Development continues on same level with future prospects of the area very stable. One of the most homogeneous sections in Detroit area. Lake shore frontages are very valuable and have large estates in the main. ",
         "RandomLat": 42.399999999999835,
         "RandomLong": -82.90399999999927,
-        "MedianIncome": "113220",
+        "MedianIncome": 113220,
         "CensusTract": "26163550700",
         "PercentBlack": 0.033597583993959984
     },
@@ -516,7 +516,7 @@
         "QualitativeDescription": "This area is the location of many of the finest homes and estates in the Detroit area. Frontages on Jefferson (the lake shore) are very valuable and are primarily estates with houses set far back from the street. Entire town is zoned residential and, therefore, shopping centers are lacking in the town. Development continues on a high class basis with substantial homes. This section is considered the most exclusive in the entire Detroit area. Few of these homes have come into the market in recent years which indicateds that they are very well held. ",
         "RandomLat": 42.42399999999982,
         "RandomLong": -82.88399999999925,
-        "MedianIncome": "154722",
+        "MedianIncome": 154722,
         "CensusTract": "26163550900",
         "PercentBlack": 0.034816941852117735
     },
@@ -573,7 +573,7 @@
         "QualitativeDescription": "Although this section is only about 10% built at present, it appears to be a favorable location for better class developement to the Northeast of Detroit. Area is well restricted and houses are of uniformly good character. Schools and shopping centers are somewhat inconvenient and transportation is available only on Mack and Jefferson Avenue, but owners in this class of area are ordinarily \"two car\" families. ",
         "RandomLat": 42.435999999999815,
         "RandomLong": -82.89599999999926,
-        "MedianIncome": "113611",
+        "MedianIncome": 113611,
         "CensusTract": "26163551100",
         "PercentBlack": 0.004585243851604835
     },
@@ -690,7 +690,7 @@
         "QualitativeDescription": "A desirable neighborhood of good houses, well located and attractively planned. About 65% built and being actively developed at present. This is the best residential neighborhood in the industrial section Southwest of Detroit. Ground is slightly rolling. Property values on homes are not very strong due to competition of new houses which fall into a somewhat lower price class. The future of the neighborhood is well established, but activity at Ford Motor Co. will undoubtedly affect demand in this neighborhood as elsewhere in Dearborn. Bus fare to Detroit is 20 cents. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.307999999999886,
         "RandomLong": -83.26799999999972,
-        "MedianIncome": "112768",
+        "MedianIncome": 112768,
         "CensusTract": "26163574800",
         "PercentBlack": 0.0037518759379689846
     },
@@ -775,7 +775,7 @@
         "QualitativeDescription": "70% developed. Homoegeneous. Restricted. Convenient to schools and University. In line of city's growth. Heavy arterial traffic. Unpaved side streets and alleys. Fair to average construction. In Northlawn, Cherrylawn, Wisconsin & Kentucky, Prudential Life has 14 - 2-flats priced from $11,400 to $16,000. Near the corner of Thatcher and Stoopol they also have 7 2-flats priced from $12,400 to $15,600. All these are priced at from $3000 to $4000 above the market. The northwest quarter of the area is the newest. Current newspaper ads. show 9 singles offered at from $6900 to $10,500. Probably the fastest growing area in the city. Insured loans on new construction is slowing down sales of institutionally held houses. Rapid development of better type housing rates the area first class. *See explanation sheet for Area Descritptions.",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.14799999999957,
-        "MedianIncome": "40262",
+        "MedianIncome": 40262,
         "CensusTract": "26163538500",
         "PercentBlack": 0.9701125895598772
     },
@@ -832,7 +832,7 @@
         "QualitativeDescription": "20% developed. Very high restriction. All city facililties. Good social occupancy. Homogeneous development. Streets wooded and shaded. Lots landscaped. Facing the Detroit Golf Club. Both east adn west are estate type single homes valued up to $35,000. South and east of Pontchartrain Drive the development is of large apartment buildings. Demand for high priced properties limited. Loans on single homes should not exceed $10,000. A high grade area rating first class. *See explanation sheet for Area Description",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.13199999999955,
-        "MedianIncome": "85882",
+        "MedianIncome": 85882,
         "CensusTract": "26163538400",
         "PercentBlack": 0.7512557326927277
     },
@@ -905,7 +905,7 @@
         "QualitativeDescription": "25% developed. All city facilities. Remote to city center. One arterial highway. Growing fast. This is a high \"B\" or \"A\" area. There are stores along Grand River and on Fenkel. Streets are shaded. Fenkel street is a definite drividng line between \"A-4\" and \"D-2\". The area does not compare with areas \"A-1\" and \"A-3\" but is definitely 1st grade in comparison with the city as a whole. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.40399999999983,
         "RandomLong": -83.23999999999968,
-        "MedianIncome": "48250",
+        "MedianIncome": 48250,
         "CensusTract": "26163543400",
         "PercentBlack": 0.8884192730346576
     },
@@ -954,7 +954,7 @@
         "QualitativeDescription": "65% developed. More sparsely settled North of Puritan. Restricted. Good trasnportation. All utilities. Convenient schools. Cross streets unpaved. New construction ranges $4500-6000. Lots on St. Mary's - 44 x 121 - $700. Rapidly developing into a very desirable area rating 1st grade. * See explanation sheet for Area Descriptions.",
         "RandomLat": 42.40799999999983,
         "RandomLong": -83.21199999999965,
-        "MedianIncome": "31061",
+        "MedianIncome": 31061,
         "CensusTract": "26163542200",
         "PercentBlack": 0.9793650793650793
     },
@@ -1011,7 +1011,7 @@
         "QualitativeDescription": "40% developed. All utilities. Limited trasnportation. In courville, Craft, Stockwell & Whitehill 8 new singles sold at $5710 - 6200. Seven are for sale in that range. In the northeast extremity, north of Morang St. tehre are 8 year old Br. Veneers, valued $5500-8500. Those are of good construction with a good class of occupants. Otherwise the area is as above. Lots average $550 for 40 x 116 ft. South and east of Beaconsfield there are Brick veneer frames and Brick veneer with shingle. Few if any 2-flats. Area is enjoying good uniform development and rates 1st grade.  *See explanation sheet for Area Descriptions",
         "RandomLat": 42.42799999999982,
         "RandomLong": -82.95599999999934,
-        "MedianIncome": "21493",
+        "MedianIncome": 21493,
         "CensusTract": "26163500900",
         "PercentBlack": 0.9544134727061556
     },
@@ -1152,7 +1152,7 @@
         "QualitativeDescription": "This is a homogeneous new development restrcited to one family houses. Area is about 35% built. Most of the residents work in Detroit. Transportation is distant but commuter trains take only about 40 minutes. Sewage faciliteis are not complete throughout the section. There are a few estates in the area which are valued well over the above figures. Grade school is located in the section. The layout of the neighborhood outside the limits of Birmingham is better planned but neither section enjoys all the advantages of a really high grade first class section and the area is, therefore, rated \"A-\". As devleopment continues and paving is done the neighborhood will probably slowly improve. This section, however, is one of teh best suburban residential sections around Detroit.",
         "RandomLat": 42.55599999999975,
         "RandomLong": -83.22799999999967,
-        "MedianIncome": "164250",
+        "MedianIncome": 164250,
         "CensusTract": "26125152600",
         "PercentBlack": 0.05503875968992248
     },
@@ -1221,9 +1221,9 @@
         "QualitativeDescription": "A well planned and convenient neighborhood of good houses. Section is about 80% built and character is well established. The properties adjacent to the Detroit Zoo on the south are not as desirable as the balance of the neighborhood, but as a whole the section enjoys a good reputation. School facilities are shared with Royal Oak, which makes it necessary for children to cross Woodward Avenue whcih has very heavy traffic.",
         "RandomLat": 42.48399999999979,
         "RandomLong": -83.15999999999958,
-        "MedianIncome": null,
-        "CensusTract": "26125188001",
-        "PercentBlack": null
+        "MedianIncome": 127450,
+        "CensusTract": "26125188000",
+        "PercentBlack": 0.009097801364670205
     },
     {
         "Coordinates": [
@@ -1354,7 +1354,7 @@
         "QualitativeDescription": "This high class residential section, now about 80% built up, is one of the most desirable areas in and around Detroit. Hosues are substantial and of homogeneous character, although there is wide variation in prices. Deed restrictions are protective and the area is zoned for residential purposes only. There are a number of large estates South of Jefferson valued well over $100,000, but the average home is valued at about $12,000. Sales during 1937 were very slow, but during 1938 activity increased somewhat, although there is still considerable overhang on the market.",
         "RandomLat": 42.37599999999985,
         "RandomLong": -82.91999999999929,
-        "MedianIncome": "119239",
+        "MedianIncome": 119239,
         "CensusTract": "26163550100",
         "PercentBlack": 0.08113011923276309
     },
@@ -1603,7 +1603,7 @@
         "QualitativeDescription": "15% developed. All utilities. Unpaved cross streets & alleys. Remote from centers. On Greenfield North of Pembroke there are a few $7000-8000 singles. Frame singles, Br. Veneer singles. Some without basements,-whole area. New construction: East of Greenfield new houses run $4500-$6000. West of Greenfield $3000-6000. In the west, during the last 18 months there has been considerable new construction in the area, Pembroke, Oakfield, Vassar & Southfield, also in the area Cambridge, Winthrop, Margareta and Ferguson. In the east there has been steady new building in the area, Cambridge, Strathmore, Curtis and Sussex and also in the area lying within a line drawn beginning at Outer Drive, South on Griggs, West on Margareta, south on Meyers Rd., west on McNichols, north on Mark Twain, east on Santa Maria, north on Schaefer Highway, east on Seven Mile Rd., north on Ward to Outer Drive and east to point of beginning. Vacant lots 40 ft. Appoline $650-Pinehurst $950. The borders of this area are Wyoming on the east and McNichols Rd. on the south. It embraces farms and other undeveloped areas. The area is new and is building but lack of zoning ordinances or restrictions and the thinness of development to date would not warrant an \"A\" rating. The better 6-room houses currently advertised to rent at $50. *See explanation sheet for Area Descriptions",
         "RandomLat": 42.43199999999982,
         "RandomLong": -83.23599999999968,
-        "MedianIncome": "35842",
+        "MedianIncome": 35842,
         "CensusTract": "26163540700",
         "PercentBlack": 0.9293981481481481
     },
@@ -1652,7 +1652,7 @@
         "QualitativeDescription": "25% developed. Comparatively new area of brick and frame singles, bungalows and semi-bungalows. Restricted. Homogeneous area. Good social group. Inconvenient to schools. 50 minutes from city centers. Some unpaved streets. This is the extension into Detroit of a comparatively new Polish area in Dearborn. Should hold a 'B\" grading for 5 years. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.35599999999986,
         "RandomLong": -83.15599999999958,
-        "MedianIncome": "28359",
+        "MedianIncome": 28359,
         "CensusTract": "26163534700",
         "PercentBlack": 0.9963112005365526
     },
@@ -1761,7 +1761,7 @@
         "QualitativeDescription": "45% developed. Deed restrictions. Convenient to schools and shopping centers. All utilities. Unpaved cross streets. Shifting population. Heterogeneous construction. Restrictions not enforced. Heavy foreclosure. The triangle formed by Gratiot, Houston & Lorrette is comparatively now. There is a substandard area Houston to Rosemary between Queen & Hayes. On Outer Drive singles get up to $9500 and 2-flats up to $16,000. On Cedargrove 8-9 room singles got up to $9000. Otherwise the area is as above. On Alma St. and on Jane St., Prudential has 10 or 12 5-room 2-flats brick with 2-car garages at $8300. Gratiot Ave. & McNichols Rd. are business streets. North and east extremities sparsely settled with now construction of brick veneer except State Fair Road, Manning & Tacoma which are frame. There are a few now brick veneer on Mayfield. The area is building steadily but the wide range of values does not permit an \"A\" rating. *Scattered in teh triangle formed by McNichols Rd., Mindon & Dresden and all area Houston to Outer Drive. South of here-heavy.",
         "RandomLat": 42.42399999999982,
         "RandomLong": -82.97599999999936,
-        "MedianIncome": "31000",
+        "MedianIncome": 31000,
         "CensusTract": "26163500400",
         "PercentBlack": 0.8857615894039735
     },
@@ -1802,7 +1802,7 @@
         "QualitativeDescription": "75% developed. Restricted. Good construction. Schools and shopping centers. All utilities. Homogeneous. Some unpaved cross streets. All alleys unpaved. Large lots. On Promenade west of Roseberry, 2 and 4-flats range in value $10,000-$18,000. Outer Drive is above the average of the area. Otherwise the area is as above. On Wilshire between Roseberry and Coplin, 6-7-8 room singles range $8200-$9200. On Promenade and on Chelsea, 5-6 room singles range $4500-$5500. 8-room singles on Rosemary range $8000-$10,000. On Glenfield 2-flats run as low as $4500-$5500. Practically all new construction is east of this area. No further rapid development is expected here. The area is holding its own. No decline has set in and a \"B\" rating is warranted. ",
         "RandomLat": 42.415999999999826,
         "RandomLong": -82.97999999999936,
-        "MedianIncome": "23462",
+        "MedianIncome": 23462,
         "CensusTract": "26163504000",
         "PercentBlack": 0.9733656174334141
     },
@@ -1867,7 +1867,7 @@
         "QualitativeDescription": "65% developed. Deed restrictions. All utilities and schools. Limited transportation. Unpaved cross streets. Heterogeneous housing. Chalmers, Eastlawn and Lakewood Streets from Harper to Warren have 2 and 3 flat buildings at from $10,500-$13,000. Otherwise the area is as above. On Philip there are singles worth $2000 to $4000. Singles are a little better on Chalmers and on Marlborough. On Longview, on Wade and a Maiden Streets, 5-6-7 room singles run $6000-6500 and 2-flats run $8000-11,000. Further rapid development will probably be north and east of this area. The rating is better than a high \"c\" and runs to a low \"B\". ",
         "RandomLat": 42.40799999999983,
         "RandomLong": -82.97999999999936,
-        "MedianIncome": "28836",
+        "MedianIncome": 28836,
         "CensusTract": "26163504300",
         "PercentBlack": 0.9666503187837175
     },
@@ -1928,7 +1928,7 @@
         "QualitativeDescription": "65% developed. Neighborhood of good character and stability. Good construction. Convenient to centers. All utilites. Dead restrictions. Some unpaved streets. All alleys unpaved. Mack and Warren Ave. business streets. Berkshire, Chatsworth & Balfour have numbers of duplexes. There are a few $5000 singles on 3-mile Drive. There are 12 2-flat income on Devonshire north of Warren hold by H.P. Holmes & Co. at $13,500. Otherwise the area is as above. There are some $6000-6700 singles on the southern parts of Nottingham of Courville and of Yorkshire. There are some $5500-6000 singles on Bedford north of Warren. North of Warren on Balfour, on Chatsworth and on Bedford, Prudential Life has 11 2-flats priced at $9500-13,200. These will probably bring from $8000-9500. As shown there is a wide range of values dl through the area. The general tone is good and the area does not fall much short of an \"A\" rating. * Steady heavy production north of Southampton, west of Bedford also south of Warren E. Kensington",
         "RandomLat": 42.41199999999983,
         "RandomLong": -82.93599999999931,
-        "MedianIncome": "43125",
+        "MedianIncome": 43125,
         "CensusTract": "26163501400",
         "PercentBlack": 0.8753648569760654
     },
@@ -2025,7 +2025,7 @@
         "QualitativeDescription": "A fairly well restricted area zoned for one family house development. Section is about 50% built at present with expansion spreading to the Northeast. The better houses are East of the R.R. tracks, but the neighborhood is very desirable throughout. It is convenient to commuter train transportation to Detroit proper. Schools are nearby and a golf course is also available. occupants are of good social class and the future of the area appears stable with expansion continuing at a steady pace. Section is protected from teh 3rd class area by open ground.",
         "RandomLat": 42.55199999999975,
         "RandomLong": -83.20799999999964,
-        "MedianIncome": "155982",
+        "MedianIncome": 155982,
         "CensusTract": "26125153100",
         "PercentBlack": 0.0
     },
@@ -2078,7 +2078,7 @@
         "QualitativeDescription": "A sparsely developed area of good character which is developing slowly with modest homes. Neighborhood is innaccessible to schools, shopping centers and most streets are unpaved. Transportation is available on Woodward Avenue. Building is concentrated near the center of the area but only about 10% of ground is developed. ",
         "RandomLat": 42.523999999999766,
         "RandomLong": -83.19599999999963,
-        "MedianIncome": "91250",
+        "MedianIncome": 91250,
         "CensusTract": "26125183400",
         "PercentBlack": 0.07669285447063225
     },
@@ -2143,7 +2143,7 @@
         "QualitativeDescription": "This is a now subdivision carefully controlled by the developer who has built a good grade school and made every attempt to control the development. Although only about 10% built up at present, construction continues and as all facilities such as transportation, shopping and social centers become available, the section may warrant an \"A\" rating. Because it is somewhat inaccesible and lacking in many of the desired conveniences of a better area, it is graded \"B\" for the present.",
         "RandomLat": 42.48399999999979,
         "RandomLong": -83.21599999999965,
-        "MedianIncome": "43824",
+        "MedianIncome": 43824,
         "CensusTract": "26125161400",
         "PercentBlack": 0.5795148247978437
     },
@@ -2212,7 +2212,7 @@
         "QualitativeDescription": "A substantial area of good houses convenient to everything including commuter train transportation to Detroit proper. Although only 50% built, development has been rather slow partially due to the stigma of being on the wrong side of Woodward Avenue. As a whole, however, this is the best area in Royal Oak and can improve with any volume of substantial development. Layout is attractive and traffic flow is not excessive except on Woodward Avenue.",
         "RandomLat": 42.49999999999978,
         "RandomLong": -83.15999999999958,
-        "MedianIncome": "99097",
+        "MedianIncome": 99097,
         "CensusTract": "26125184000",
         "PercentBlack": 0.04194630872483222
     },
@@ -2273,9 +2273,9 @@
         "QualitativeDescription": "this small section is isolated from transportation, shopping centers and must share school facilities with Berkley which are not considered as desirable as other sections. Properties are now and the layout is good. There are no garbage collection facilities and sewers are lacking. Assessments for the latter may be expected. As development continues the neighborhood could easily became an \"A\" area but with the inconveniences now in effect, it warrants only a \"B\" rating. Shade trees and shrubbery are definite assets as is the golf course adjacent.",
         "RandomLat": 42.487999999999786,
         "RandomLong": -83.16399999999959,
-        "MedianIncome": null,
-        "CensusTract": "26125188001",
-        "PercentBlack": null
+        "MedianIncome": 127450,
+        "CensusTract": "26125188000",
+        "PercentBlack": 0.009097801364670205
     },
     {
         "Coordinates": [
@@ -2322,7 +2322,7 @@
         "QualitativeDescription": "40% developed. All utilities. Restricted. Homogeneous. Poorer property to the west. Cemetery to the east. Schools across heavy traffic highway. Unpaved side streets. Not so heavily wooded as Green area directly south. Lots $575 on Gardendale. Fails to be a first grade area only because of surrounding east and west. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.43999999999981,
         "RandomLong": -83.13599999999956,
-        "MedianIncome": "59241",
+        "MedianIncome": 59241,
         "CensusTract": "26163538100",
         "PercentBlack": 0.7726315789473684
     },
@@ -2391,7 +2391,7 @@
         "QualitativeDescription": "A small area of good houses similar in most respects to the \"B\" area in Pleasant Ridge. Area is well wooded and layout is attractive but sales are very slow and competitive areas are better restricted and have more appeal. Price trend is weak due to the competition of newer houses.",
         "RandomLat": 42.47999999999979,
         "RandomLong": -83.15199999999957,
-        "MedianIncome": "86767",
+        "MedianIncome": 86767,
         "CensusTract": "26125184500",
         "PercentBlack": 0.041480820695807316
     },
@@ -2456,7 +2456,7 @@
         "QualitativeDescription": "A substantial neighborhood of nice appearing houses. Street layout is interesting and development is of homogeneous. Pride of ownership is apparent and area has fine shade tres and shrubbery. There is a good grade school which is shared with Ferndale. The area east of Woodward Avenue has only smaller type houses, but it is quite desirable in its price class. Frontages along Woodward are zoned for commercial use, the balance zoned for one-family development. The edges of the area taper off in point of desirability and the Detroit Zoo on the northern boundary unfavorably affects this section which would qualify in most respects as an \"A\" area. Sales have been comparatively poor in the neighborhood although several now houses have been built for individual owners.",
         "RandomLat": 42.471999999999795,
         "RandomLong": -83.13999999999956,
-        "MedianIncome": "116583",
+        "MedianIncome": 116583,
         "CensusTract": "26125187000",
         "PercentBlack": 0.020510673922143157
     },
@@ -2501,7 +2501,7 @@
         "QualitativeDescription": "This is the best section of Ferndale and the only one of good character generally appealing to the better class buyer. Houses are substantial although many are small. Demand is good, and although rents have held up well, it is beleived that downward adjustments will have to be made soon. School facilities are shared with Pleasant Ridge immediately to the north. This neighborhood compares favorably with the Pleasant Ridge section west of Woodward Avenue but restrictions in the latter are better. Shade trees and shrubbery makes the area attractive, but streets are not all paved. Graded no better than B becasue of Ferndale location which is not favorable to some buyers of this class of property.",
         "RandomLat": 42.4639999999998,
         "RandomLong": -83.13999999999956,
-        "MedianIncome": "93875",
+        "MedianIncome": 93875,
         "CensusTract": "26125173200",
         "PercentBlack": 0.0036075036075036075
     },
@@ -2602,7 +2602,7 @@
         "QualitativeDescription": "A solidly built area with many houses set very close to the sidewalks.  Area is favorably affected by Grosso Pointe location.  Schools, transportation and shopping facilities are convenient.  This section should hold up fairly well during the next ten years.",
         "RandomLat": 42.37599999999985,
         "RandomLong": -82.9319999999993,
-        "MedianIncome": "119239",
+        "MedianIncome": 119239,
         "CensusTract": "26163550100",
         "PercentBlack": 0.08113011923276309
     },
@@ -2683,7 +2683,7 @@
         "QualitativeDescription": "A desirable neighborhood of substantial houses somewhat crowded for this type of section.  Location is Grosso Pointe - favorably affects these properties which are convenient to schools and transportation.  Area should hold up fairly well during next ten years although newer competing areas have more appeal.",
         "RandomLat": 42.39599999999984,
         "RandomLong": -82.91999999999929,
-        "MedianIncome": "82250",
+        "MedianIncome": 82250,
         "CensusTract": "26163550400",
         "PercentBlack": 0.026537216828478965
     },
@@ -2756,7 +2756,7 @@
         "QualitativeDescription": "A slowly developing section of substantial houses favorably affected by Grosso Pointe location.  The older houses are concentrated near Kerby with new construction occuring just south of Mack.",
         "RandomLat": 42.415999999999826,
         "RandomLong": -82.90799999999928,
-        "MedianIncome": "160234",
+        "MedianIncome": 160234,
         "CensusTract": "26163550800",
         "PercentBlack": 0.026434558349451968
     },
@@ -2837,7 +2837,7 @@
         "QualitativeDescription": "A slowly developing area of modest homes in restricted area.  Although fairly active in new construction at present, inconvenience of transportation and shopping centers are detrimental influences to class of buyer for this grade of neighborhood.  Houses along Anita are older frame units somewhat obsolete.  With continued building some improvement in general desirability may be experieinced, but it is doubtful that the area will become an \"A\" area.  Buildings are concentrated near Mack at present with new homes being erected to the East.  Bus transportation is available on Mack, the local shopping street.",
         "RandomLat": 42.44399999999981,
         "RandomLong": -82.90399999999927,
-        "MedianIncome": "76793",
+        "MedianIncome": 76793,
         "CensusTract": "26163551800",
         "PercentBlack": 0.07938320959451742
     },
@@ -2906,7 +2906,7 @@
         "QualitativeDescription": "A section, well restricted, now about 10% developed.  Houses are substantial and favorably influenced by convenience to Golf Club.  Distance to center of Detroit and slow development in recent years procludes the area from better than a \"B\" rating.  Shopping and employment centers are inconvenient and future appears somewhat uncertain.  Shade trees and shrubbery are lacking, but layout of the section is fairly attractive.",
         "RandomLat": 42.39599999999984,
         "RandomLong": -83.29599999999975,
-        "MedianIncome": "79283",
+        "MedianIncome": 79283,
         "CensusTract": "26163554700",
         "PercentBlack": 0.33636363636363636
     },
@@ -2995,7 +2995,7 @@
         "QualitativeDescription": "This area is being developed at present with moderate homes of fairly good character.  Section is about 25% built, but future of the neighborhood appears fairly well established, although its general appeal does not permit a first class rating.  Scattered throughout are a few old original farm houses.  Shopping centers are inconvenient and transportation service is only fair.  Competition of new houses is affecting prices on older structures particularly in view of the lower payments available.",
         "RandomLat": 42.32399999999988,
         "RandomLong": -83.28399999999974,
-        "MedianIncome": "76703",
+        "MedianIncome": 76703,
         "CensusTract": "26163574700",
         "PercentBlack": 0.0
     },
@@ -3044,7 +3044,7 @@
         "QualitativeDescription": "A convenient location although children must cross RR grade crossing to schools.  This is a modest development of good character which should hold up fairly well during the coming years.   *See explanation shoot for Area Descriptions.",
         "RandomLat": 42.29599999999989,
         "RandomLong": -83.24799999999969,
-        "MedianIncome": "70282",
+        "MedianIncome": 70282,
         "CensusTract": "26163575000",
         "PercentBlack": 0.025977433744424034
     },
@@ -3085,7 +3085,7 @@
         "QualitativeDescription": "65% developed. Homogeneous and restricted. Heavy traffic on McNichols Road. Private transportation required. Unpaved cross streets and alleys. Rates a B+, almost rating 1st grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.16399999999959,
-        "MedianIncome": "30417",
+        "MedianIncome": 30417,
         "CensusTract": "26163538700",
         "PercentBlack": 0.9611173184357542
     },
@@ -3154,7 +3154,7 @@
         "QualitativeDescription": "This is a substantial neighborhood with houses very well maintained.  Houses within Morrow Circle are the most desirable but the entire neighborhood is largely Polish and market is somewhat restricted.  Competition of new construction has affected prices on older properties because of lower payments, but this section should hold up fairly well because of proximity to Ford Motor Co. Transportation to Detroit is convenient and all other facilities are available.  Zoned for one family houses.   *See explanation shoot for Area Descriptions.",
         "RandomLat": 42.347999999999864,
         "RandomLong": -83.1719999999996,
-        "MedianIncome": "32273",
+        "MedianIncome": 32273,
         "CensusTract": "26163573701",
         "PercentBlack": 0.023928215353938187
     },
@@ -3195,7 +3195,7 @@
         "QualitativeDescription": "A small area building up fairly fast with modest homes of good character.  Section is attracting Jr. executives of down-river industrial plants and minor officials at Ford plant.  Development is only about 25% built at present, but area is well established.  Streets are unpaved and social and shopping centers are inconvenient.  Transportation is by bus only, and while adequate for the community, it is very infrequent.  Future of the area appears fairly good.",
         "RandomLat": 42.25199999999992,
         "RandomLong": -83.21199999999965,
-        "MedianIncome": "72782",
+        "MedianIncome": 72782,
         "CensusTract": "26163576400",
         "PercentBlack": 0.02050837666088966
     },
@@ -3260,7 +3260,7 @@
         "QualitativeDescription": "The only good area in town.  Less than 50% built.  The general reputation of Lincoln Park adversely affects the desirability of all properties in the town, but this area is very clean and should withstand any minor adverse influence.  Houses are substantially built and the general appearance of the neighborhood is attractive.  Local school facilities are only fair, but all other conveniences are available.  Greatest demand is from Jr. officials of nearby industrial plants.  The portion west of Fort Street is very sparsely settled but it is being built up slowly with houses similar to those already constructed.",
         "RandomLat": 42.23199999999993,
         "RandomLong": -83.17999999999961,
-        "MedianIncome": "70125",
+        "MedianIncome": 70125,
         "CensusTract": "26163577700",
         "PercentBlack": 0.029473684210526315
     },
@@ -3345,7 +3345,7 @@
         "QualitativeDescription": "A small neighorhood about 90% built up with good houses in demand from executives, etc. of local industrial plants and City Officials of Wyandotto.  River frontages are valued up to $18,000.  The future of the section appears stable because of the limited number of better class properties available in the area.  All properties in Wyandotto are favorably affected by good government.",
         "RandomLat": 42.23199999999993,
         "RandomLong": -83.14799999999957,
-        "MedianIncome": "41494",
+        "MedianIncome": 41494,
         "CensusTract": "26163580100",
         "PercentBlack": 0.025423728813559324
     },
@@ -3406,7 +3406,7 @@
         "QualitativeDescription": "A comparatively new section of substantial houses.  Location is inconvenient to shopping centers and transportation facilities are limited.  Area is about 30$ built up.  Graded second grade because of sound construction and homogenuity.",
         "RandomLat": 42.21199999999994,
         "RandomLong": -83.17999999999961,
-        "MedianIncome": "78267",
+        "MedianIncome": 78267,
         "CensusTract": "26163580500",
         "PercentBlack": 0.0013605442176870747
     },
@@ -3467,7 +3467,7 @@
         "QualitativeDescription": "A desirable neighborhood of substantial houses comprising the \"best\" part of Trenton.  Here live many of the executives of the Detroit Edison Co. (Trenton Plant).  Frontage along the river are more valuable than others.  Transportation, schools and shopping facilities are convenient and adequate.  Properties in this location should hold up well because of limited number available.",
         "RandomLat": 42.15199999999997,
         "RandomLong": -83.1759999999996,
-        "MedianIncome": "50724",
+        "MedianIncome": 50724,
         "CensusTract": "26163594000",
         "PercentBlack": 0.0028101164191087916
     },
@@ -3512,7 +3512,7 @@
         "QualitativeDescription": "A steadily developing section primarily appealing to executives of Down-River business.  Area may develop into an \"A\" area but at present it can not be rated better than \"B+\" because of lack of appeal without trees or shrubs and limited development.  Streets are not paved.  Section is inconvenient to shopping facilities.",
         "RandomLat": 42.147999999999975,
         "RandomLong": -83.18799999999962,
-        "MedianIncome": "78281",
+        "MedianIncome": 78281,
         "CensusTract": "26163594100",
         "PercentBlack": 0.000455684666210982
     },
@@ -3573,7 +3573,7 @@
         "QualitativeDescription": "At the southeast tip there are 15 or 20 apartmetn buildings of perhaps 100 or more units. Balance of the area vacant, but additional building may be anticipated.",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.11199999999953,
-        "MedianIncome": "21960",
+        "MedianIncome": 21960,
         "CensusTract": "26163538300",
         "PercentBlack": 0.8487084870848709
     },
@@ -3650,7 +3650,7 @@
         "QualitativeDescription": "A mixture of fairly substantial houses and bungalows in a fairly homogeneous section convenient to transportation along Jefferson. Distance to employment, social, and employment centers limits appeal but section is valued primarily because of lake shore frontage. Future of the area appears somewhat uncertain. Graded second grade because of limited lake shore frontage.",
         "RandomLat": 42.47999999999979,
         "RandomLong": -82.88799999999925,
-        "MedianIncome": "63831",
+        "MedianIncome": 63831,
         "CensusTract": "26099251200",
         "PercentBlack": 0.008227848101265823
     },
@@ -3703,7 +3703,7 @@
         "QualitativeDescription": "A small area of fairly good houses convenient to center of Wayne, but distant from Detroit employment centers.  Nearest competitive area is in Dearborn.  Transportation to Detroit proper is ample but slow.",
         "RandomLat": 42.2879999999999,
         "RandomLong": -83.38799999999986,
-        "MedianIncome": "24294",
+        "MedianIncome": 24294,
         "CensusTract": "26163566500",
         "PercentBlack": 0.1841860465116279
     },
@@ -3744,7 +3744,7 @@
         "QualitativeDescription": "50% developed. All utilities. There are two bordering high sped arterial highways. Area lacks homogeneity. Good transportation. Prudential Life has 12- 2-flats here listed from $9500-13,200. These seem to be about the only properties for sale in the area. The true market for them is probably $8000 for 5-room flats and $9000 for 6-room flats. If this were an area of singles exclusively instead of having numbers of doubles it would probably take an \"A\" rating. ",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.13599999999956,
-        "MedianIncome": "85882",
+        "MedianIncome": 85882,
         "CensusTract": "26163538400",
         "PercentBlack": 0.7512557326927277
     },
@@ -3797,7 +3797,7 @@
         "QualitativeDescription": "35% developed. Uniform area. Restricted good social groups. All utilities. Some unpaved streets. 45 to 70 ft. frontage. Shaded streets. \"A\" rating but for sparsely settled heterogeneous area to the west and old area to the north. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.40399999999983,
         "RandomLong": -83.2559999999997,
-        "MedianIncome": "30698",
+        "MedianIncome": 30698,
         "CensusTract": "26163543500",
         "PercentBlack": 0.89128305582762
     },
@@ -3846,7 +3846,7 @@
         "QualitativeDescription": "50% developed. Well restricted. Homogeneous. Good class home owners. Good construction. All utilities. Unpaved side streets only. Main highway has very heavy traffic. South end of Warwick and Glastonbury and full length of Bretton, Gainsborough and Lancanshire have brick singles that cost up to $35,000. Now leveled off in price at $13,000-15,000 at which price they will probably hold. These homes are occupied by a group with high incomes. Area would rate \"A\" grading but for the number of old structures. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.41199999999983,
         "RandomLong": -83.22399999999966,
-        "MedianIncome": "76439",
+        "MedianIncome": 76439,
         "CensusTract": "26163543100",
         "PercentBlack": 0.838152610441767
     },
@@ -3979,7 +3979,7 @@
         "QualitativeDescription": "60% developed. All utilities. On Washburn, Kentucky, Indiana, Wisconsin, Ohio, Cherrylawn & Northlawn, between Puritan and Keeler, Prudential has 62 2-flats priced from $8300 to $11,200 and 6 on the same blocks on Mondota. On Sussex near Chalfonte they have 6 2-flats priced $10,100. On Cheyenne, Ward, Sorrento, Steel and Appoline between Pilgrim and Keeler, they have 47 2-flats priced $9300-$9900. These properties will currently bring $8000-8300 with a positive ceiling at $9000. New construction:- Heavy steady production north of Pilgrim from Hubbell to Tracey. Scattered production west of the Schaefer Highway and south of Pilgrim. Scattered production east of Couzens Highway from McNichols Road to Midland. Most streets oiled but not paved. The area is developing rapidly which tends to pull the rating up but overhang and high property turnover together with lack of ordinances and restrictions prevent a rating better than a \"B\". *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.415999999999826,
         "RandomLong": -83.1759999999996,
-        "MedianIncome": "25280",
+        "MedianIncome": 25280,
         "CensusTract": "26163536900",
         "PercentBlack": 0.9838107098381071
     },
@@ -4068,7 +4068,7 @@
         "QualitativeDescription": "50% developed. Restricted. New and rather uniform area. Good construction. Convenient to schools. All utilities. Growing fast. Some subdivision pavements and parked streets which the city refuses to maintain. Between Southfield Road and Rutland and again between Asbury Park and Greenfield there are numbers of frame structures. South of Schoolcraft and east of Asbury Park there is a new development in the $5000 range. Cheapness of new construction holds area to a \"B\" rating. *Steady scattered production whole area-particularly heavy South of Kendall and on Grandville and Piedmont south of Lyndon. **See explanation sheet for area descriptions. ",
         "RandomLat": 42.39199999999984,
         "RandomLong": -83.20399999999964,
-        "MedianIncome": "28557",
+        "MedianIncome": 28557,
         "CensusTract": "26163542400",
         "PercentBlack": 0.9494278331487633
     },
@@ -4105,7 +4105,7 @@
         "QualitativeDescription": "Building types conform. All utilities. Restrictions. Stands out from surrounding area. Probably finished as a development. Declining values have not set in and the area still rates \"B\" grading. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.383999999999844,
         "RandomLong": -83.1679999999996,
-        "MedianIncome": "27679",
+        "MedianIncome": 27679,
         "CensusTract": "26163534200",
         "PercentBlack": 0.9495967741935484
     },
@@ -4146,7 +4146,7 @@
         "QualitativeDescription": "Gas, water, elecric light & sewers.  Remote from centers, unpaved streets.  Low income group.  Remote from employment.  15% improved.  7-mile Road is paved.  Street cars on Grand River.  Area building slowly by owners not by speculative developers.  Cheap construction rates the area 3rd grade.",
         "RandomLat": 42.43199999999982,
         "RandomLong": -83.27999999999973,
-        "MedianIncome": "30436",
+        "MedianIncome": 30436,
         "CensusTract": "26163541800",
         "PercentBlack": 0.7066993464052288
     },
@@ -4183,7 +4183,7 @@
         "QualitativeDescription": "100% developed. Better element moving out. Character changing. Buildings becoming obsolete. Old neighborhood. Mixed groups. Area rates low \"C\" or probably \"D\".",
         "RandomLat": 42.41199999999983,
         "RandomLong": -83.11999999999954,
-        "MedianIncome": "21182",
+        "MedianIncome": 21182,
         "CensusTract": "26163530100",
         "PercentBlack": 0.9539087211929508
     },
@@ -4220,7 +4220,7 @@
         "QualitativeDescription": "A small area of mediocre houses in a section about 25% built. Future development will undoubtedly be slow and of third grade character. ",
         "RandomLat": 42.35199999999986,
         "RandomLong": -83.27599999999973,
-        "MedianIncome": "41775",
+        "MedianIncome": 41775,
         "CensusTract": "26163571800",
         "PercentBlack": 0.15
     },
@@ -4257,7 +4257,7 @@
         "QualitativeDescription": "A sparsely built area isolated from schools and shopping centers. Houses do not have water and streets are unpaved. Although most properties are new, they are not first class construction and section is not very well established. ",
         "RandomLat": 42.33199999999987,
         "RandomLong": -83.27599999999973,
-        "MedianIncome": "42956",
+        "MedianIncome": 42956,
         "CensusTract": "26163572100",
         "PercentBlack": 0.047797883236599524
     },
@@ -4330,7 +4330,7 @@
         "QualitativeDescription": "This sparsely settled area, now about 10% built, was promoted by selling three lots for the price of one. Sewage facilities are available only in the central portion of the town and transportation only on Ford Road. Development is slow and other areas are more favorably located as well as better restricted. There is little possibility of the section developing into better than a third grade area, although there are a few substantial houses scattered throughout. ",
         "RandomLat": 42.32399999999988,
         "RandomLong": -83.35199999999982,
-        "MedianIncome": "54059",
+        "MedianIncome": 54059,
         "CensusTract": "26163569500",
         "PercentBlack": 0.024886877828054297
     },
@@ -4419,7 +4419,7 @@
         "QualitativeDescription": "",
         "RandomLat": 42.275999999999904,
         "RandomLong": -83.38799999999986,
-        "MedianIncome": "47083",
+        "MedianIncome": 47083,
         "CensusTract": "26163566700",
         "PercentBlack": 0.04352054461463652
     },
@@ -4472,7 +4472,7 @@
         "QualitativeDescription": "This area is similar in most respects to \"C\" 103 except that it is beyond Wayne City limits. Transportation and shopping centers are inconvenient but suburban location is desirable here. Although sparsely settled, the area around is being slowly developed, some houses being rather substantial. ",
         "RandomLat": 42.271999999999906,
         "RandomLong": -83.38799999999986,
-        "MedianIncome": "47083",
+        "MedianIncome": 47083,
         "CensusTract": "26163566700",
         "PercentBlack": 0.04352054461463652
     },
@@ -4537,7 +4537,7 @@
         "QualitativeDescription": "A very sparsely built area with the bulk of the housing centered near Michigan Avenue. Some construction is under way near Lower Rouge Park, but section is slow in developing. Bus transportation is available only on Michigan Rd. which is the main Highway to Chicago. It is very doubtful that this area will improve greatly in view of the poor reputation of Inkster. The newly constructed houses are isolated from the others and not of sufficient volume to constitute a neighborhood. ",
         "RandomLat": 42.29599999999989,
         "RandomLong": -83.31999999999978,
-        "MedianIncome": "37981",
+        "MedianIncome": 37981,
         "CensusTract": "26163570400",
         "PercentBlack": 0.7316099600836343
     },
@@ -4682,7 +4682,7 @@
         "QualitativeDescription": "This is the old central portion of Dearborn which is slowly changing character. Restrictions are light and rooming houses are coming into the area. Obsolescence is already a factor, but because of location demand remains very good. Many original families still live in this location which will probably slowly decline in general desirability in coming years. Morley Court is the best street in the neighborhood. ",
         "RandomLat": 42.30399999999989,
         "RandomLong": -83.2599999999997,
-        "MedianIncome": "49697",
+        "MedianIncome": 49697,
         "CensusTract": "26163574900",
         "PercentBlack": 0.046511627906976744
     },
@@ -4821,7 +4821,7 @@
         "QualitativeDescription": "This heterogeneous development contains a mixture of garage type houses up to substantial new units. In spite of the continued new building under way it is very doubtful that the section will improve to any marked extent, although this does not hold true in the blocks adjacent to Outer Drive East of Williams. In this area, development will probably be of much better grade, but is slow in getting under way. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.291999999999895,
         "RandomLong": -83.24799999999969,
-        "MedianIncome": "70282",
+        "MedianIncome": 70282,
         "CensusTract": "26163575000",
         "PercentBlack": 0.025977433744424034
     },
@@ -4870,9 +4870,9 @@
         "QualitativeDescription": "A general mixture of design and poor appearance of houses makes this a rather undesirable place to live. R.R. traffic and Ford Motor Company plant keep the city dirty and noisy. About 70% of the ground is improved, but many of the houses are garage type at rear of lots, others fairly good units. Future of the area is uncertain, but trend is very definitely downward. Location near employment is the section's greatest asset. ",
         "RandomLat": 42.275999999999904,
         "RandomLong": -83.19999999999963,
-        "MedianIncome": null,
-        "CensusTract": "26163981902",
-        "PercentBlack": null
+        "MedianIncome": 54250,
+        "CensusTract": "26163576000",
+        "PercentBlack": 0.0778537611783272
     },
     {
         "Coordinates": [
@@ -4967,7 +4967,7 @@
         "QualitativeDescription": "A general mixture of design and poor appearance of houses makes this a rather undesirable place to live. R.R. traffic and Ford Motor Company plant keep the city dirty and noisy. About 70% of the ground is improved, but many of the houses are garage type at rear of lots, others fairly good units. Future of the area is uncertain, but trend is very definitely downward. Location near employment is the section's greatest asset. ",
         "RandomLat": 42.275999999999904,
         "RandomLong": -83.1759999999996,
-        "MedianIncome": "36084",
+        "MedianIncome": 36084,
         "CensusTract": "26163578600",
         "PercentBlack": 0.16610675625233295
     },
@@ -5016,7 +5016,7 @@
         "QualitativeDescription": "Stores on Puritan, Brick veneer 2-flats on Lawton and Linwood.  70% developed.  All city facilities.  Ordinary area.  Linwood & Lawton 2-flat streets.  Age of properties and influx of incopatible elements gives this area a \"C\" rating.   *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.40399999999983,
         "RandomLong": -83.13599999999956,
-        "MedianIncome": "22548",
+        "MedianIncome": 22548,
         "CensusTract": "26163530300",
         "PercentBlack": 0.9557975656630365
     },
@@ -5077,7 +5077,7 @@
         "QualitativeDescription": "This is the older section of Allen Park which developed with the shifting of Ford operations to Dearborn. Housing is unattractive, but location is fair. Transportation is by bus only and very infrequent. Streets are unpaved and shopping centers inconvenient. Section is about 35% developed with considerable vacant acreage. Future may see some improvement but it is doubtful that additional building will be of much better character than that already existing. ",
         "RandomLat": 42.26399999999991,
         "RandomLong": -83.20399999999964,
-        "MedianIncome": "54594",
+        "MedianIncome": 54594,
         "CensusTract": "26163576100",
         "PercentBlack": 0.03391472868217054
     },
@@ -5342,7 +5342,7 @@
         "QualitativeDescription": "A heterogeneous development of all types of houses in a mediocre location. Other than convenience to employment, the appeal of the section is limited with virtually no prospect of improvement in spite of the fact that the area is only about 40-50% built up. Sales activity has been almost entirely under $5000 with considerable activity under $3500. Many of these units are garage type houses built at the rear of lots. A few two-family units have been sold. ",
         "RandomLat": 42.235999999999926,
         "RandomLong": -83.16399999999959,
-        "MedianIncome": "48173",
+        "MedianIncome": 48173,
         "CensusTract": "26163577600",
         "PercentBlack": 0.07198228128460686
     },
@@ -5383,7 +5383,7 @@
         "QualitativeDescription": "This small neighborhood comprises the only really desirable section in River Rouge. Here live the City Officials and local business men of moderate incomes. Houses are fairly substantial and trend of desirability will probably continue because of the limited number of these houses available. Officials of nearby industrial plants find this section very convenient. Transportation and schools are convenient and an excellent shopping center is nearby on Jefferson Avenue. Several of the two-family houses are converted singles. Sales demand did not come until 1936 because of delayed industrial activity. Mortgage funds are available from the local savings bank only. General appearance of the neighborhood precludes it from being a 'B\" area. Houses are built close together with very little setback from the street. ",
         "RandomLat": 42.26799999999991,
         "RandomLong": -83.13199999999955,
-        "MedianIncome": "36667",
+        "MedianIncome": 36667,
         "CensusTract": "26163579200",
         "PercentBlack": 0.29233082706766916
     },
@@ -5460,7 +5460,7 @@
         "QualitativeDescription": "This heterogeneous development is in constant demand because of its proximity to local industrial employment. Many of the workers are employed at Great Lakes Steel Corp. and the Ford Motor Co. Although rents have not been increased as much as in other areas, the bottom in 1935-36 was not as low either because of location and no reductions have been necessary during the past year. Area is almost completely developed with houses ranging from 4-room garage type to 7-room modern units. Properties adjacent to the \"B\" area are favorably affected by this proximity. School, transportation and shopping facilities are adequate and convenient. Many of the two family houses are converted singles. The HOLC two-family sold for $7800 was a semi-business unit. Mortgage financing is available only at local Savings Bank. *See explanation sheet for Area Descriptions",
         "RandomLat": 42.26399999999991,
         "RandomLong": -83.13199999999955,
-        "MedianIncome": "36667",
+        "MedianIncome": 36667,
         "CensusTract": "26163579200",
         "PercentBlack": 0.29233082706766916
     },
@@ -5577,7 +5577,7 @@
         "QualitativeDescription": "An area of heterogeneous development similar in most respects to the adjoining \"C\" area in River Rouge. Section is convenient to schools, transportation, shopping and employment centers. Properties along High Street are the best in the area, many of these being modern 6-7 room brick veneer units of good design. The city has an unfortunate reputation remaining from the Prohibition period. Frontages on Jefferson Avenue are primarily Commercial with a concentration of business properties at Saliotte Street intersection. ",
         "RandomLat": 42.25199999999992,
         "RandomLong": -83.13999999999956,
-        "MedianIncome": "22292",
+        "MedianIncome": 22292,
         "CensusTract": "26163579800",
         "PercentBlack": 0.2058287795992714
     },
@@ -5774,7 +5774,7 @@
         "QualitativeDescription": "A convenient location of older houses, the better units being along Van Alstyne near the river. Demand is constant because of proximity to steady employment at the Michigan Alkali Co. This area was the original center of Wyandotte and many fine old homes are still lived in by original families; those units adjacent to the river are valued up to $15,000, although there is a very limited market for this price home in Wyandotte. An excellent shopping center is located on Jefferson Ave. between Orange & Maple Sts. Italian is centered in the Northern end of this section. All properties in Wyandotte are favorably affected by good government. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.21199999999994,
         "RandomLong": -83.15599999999958,
-        "MedianIncome": "34306",
+        "MedianIncome": 34306,
         "CensusTract": "26163580700",
         "PercentBlack": 0.01557285873192436
     },
@@ -5891,7 +5891,7 @@
         "QualitativeDescription": "New construction is small cheaply built five-room units on 40 foot lots.  The neighborhood is inconvenient to shopping centers and transportation facilities are limited.  Many of the houses are garage type on the rear of lots.  Development is about 25% of the area.  The future of this section appears to be of a similar character as expansion continues to the South.  *See explanation sheet for Area Descriptions",
         "RandomLat": 42.19599999999995,
         "RandomLong": -83.16399999999959,
-        "MedianIncome": "54219",
+        "MedianIncome": 54219,
         "CensusTract": "26163580800",
         "PercentBlack": 0.022693997071742314
     },
@@ -5964,9 +5964,9 @@
         "QualitativeDescription": "This is the old central section of Trenton which still houses many of the old original families.  Houses are fairly well preserved although obsolescence is definitely a factor.  Second generation is not buying except in rare cases along Riverside.  Decline in desirability will undoubtedly be slow because of location convenient to schools, transportation and shopping facilities.  Most of the residents work in the immediate industrial area.",
         "RandomLat": 42.13999999999998,
         "RandomLong": -83.18399999999961,
-        "MedianIncome": null,
-        "CensusTract": "26163594401",
-        "PercentBlack": null
+        "MedianIncome": 49063,
+        "CensusTract": "26163594400",
+        "PercentBlack": 0.013021830716200689
     },
     {
         "Coordinates": [
@@ -6121,7 +6121,7 @@
         "QualitativeDescription": "An area convenient to Detroit employment centers as well as the Ford Motor Company Houses are similar to those West of Schaeffer, but somewhat older and in poorer condition.  Obsolescence is a factor in many units and the future of the neighborhood is questionable.  The trend of desirability is slowly downward with little possibility of reversal.  About 75% of the ground is improved with only a minimum of new construction in recent years.",
         "RandomLat": 42.33599999999987,
         "RandomLong": -83.1679999999996,
-        "MedianIncome": "33792",
+        "MedianIncome": 33792,
         "CensusTract": "26163573702",
         "PercentBlack": 0.0012884522467386053
     },
@@ -6226,7 +6226,7 @@
         "QualitativeDescription": "A fairly desirable neighborhood convenient to Ford Motor Co.  Housing is not very uniform and some houses are in poor condition.  Development continues with modest homes which are affecting prices on older units.  The population is largely Polsih, but of substantial character.  Rentals on one-family houses are more or less limited to a $50 top and these better units were, therefore, not reduced in rent during the past year.  Although this section is being rapidly built up, contruction is not the best and general appeal of the neighborhood is only fair.",
         "RandomLat": 42.31999999999988,
         "RandomLong": -83.18799999999962,
-        "MedianIncome": "36950",
+        "MedianIncome": 36950,
         "CensusTract": "26163573400",
         "PercentBlack": 0.05222860267979218
     },
@@ -6267,7 +6267,7 @@
         "QualitativeDescription": "Stores on Fonkoll, Ordinary area.  2-flats on Linwood & Lawton.  Age and value of structures together with the presence of inharmonious elements make this a 3rd grade area.  *See explanation sheet on Area Descriptions.",
         "RandomLat": 42.399999999999835,
         "RandomLong": -83.13199999999955,
-        "MedianIncome": "22548",
+        "MedianIncome": 22548,
         "CensusTract": "26163530300",
         "PercentBlack": 0.9557975656630365
     },
@@ -6324,7 +6324,7 @@
         "QualitativeDescription": "An old section located in a fine area of good houses.  Property is becoming obsolete but demand remains high because of favorable location to Grosse Pointe Farms.  Foreigners living in the area are considered good class home owners.  Area has only bus transportation to downtown Detroit and is inconvenient to shopping centers.  Future decline will be slow because of lack of competition in this price range in Grosse Pointe.",
         "RandomLat": 42.40799999999983,
         "RandomLong": -82.89199999999926,
-        "MedianIncome": "180455",
+        "MedianIncome": 180455,
         "CensusTract": "26163550600",
         "PercentBlack": 0.0012631578947368421
     },
@@ -6369,7 +6369,7 @@
         "QualitativeDescription": "A small area of obsolete houses definitely out of place in this location.  Although favorably affected by location in Grosse Pointe Farms, the houses are not particularly desirable, but in good demand because of social influence.  Area houses servants and gardeners of richer families in Grosse Pointe.",
         "RandomLat": 42.39599999999984,
         "RandomLong": -82.90399999999927,
-        "MedianIncome": "113220",
+        "MedianIncome": 113220,
         "CensusTract": "26163550700",
         "PercentBlack": 0.033597583993959984
     },
@@ -6414,7 +6414,7 @@
         "QualitativeDescription": "On Loraine North of Waterloo houses are mostly second grade, but street was not segregated.  Although there are scattered throughout many small frame bungalows some in only mediocre condition, the section as a whole is fairly desirable and favorably affected by its Grosse Pointe location.  New construction is helping to improve the area, but age of other properties precludes its improvement into a \"B\" area.  Decline will be fairly slow because of social influence.",
         "RandomLat": 42.383999999999844,
         "RandomLong": -82.91199999999928,
-        "MedianIncome": "82250",
+        "MedianIncome": 82250,
         "CensusTract": "26163550400",
         "PercentBlack": 0.026537216828478965
     },
@@ -6467,7 +6467,7 @@
         "QualitativeDescription": "A section of primarily frame bungalows on small lots with houses built very close to sidewalks.  Neighborhood is favorably affected by Grosse Pointe location, but trend of desirability is certainly down.  Area is solidly built and convenient to schools, transportation and good shopping centers.  Rental demand is fairly good.  Local shopping center is on Kercheval Street.",
         "RandomLat": 42.379999999999846,
         "RandomLong": -82.93999999999932,
-        "MedianIncome": "76884",
+        "MedianIncome": 76884,
         "CensusTract": "26163550200",
         "PercentBlack": 0.1327084361124815
     },
@@ -6572,7 +6572,7 @@
         "QualitativeDescription": "All utilties.  70% developed.  Heterogeneous development.  Threatening infiltration of lower classes.  Inconvenient to centers.  Unpaved alleys.  Coventry to Yacuma, inclusive, above the 7-mile Rd.  On Cardoni south of the 7-mile Rd. there are a few 2-flats in the $6000-8000 range.  There are a few $7000 2-flats on Havana.  Prudential Life has 5-room 2-flats, brick and 2-car garages at $9100, as follows: 22 on Keating north of State Fair Rd., a few on Omira and 7 on Irvington.  The price is about $1500 too high for the market.  There is industry along the R.R. North of the State Fair Rd. from Hall to Marx the singles are Brick veneer.  Lack of uniformity, lack of restrictions and mixed elements in the population make this a 3rd grade area.  *Heavy north of Romington from John Rd. to Irvington.  Scattered north of Romington east of Hanna.  **See explanation sheet for Area Description.",
         "RandomLat": 42.44399999999981,
         "RandomLong": -83.0879999999995,
-        "MedianIncome": "23832",
+        "MedianIncome": 23832,
         "CensusTract": "26163507500",
         "PercentBlack": 0.8983501862692922
     },
@@ -6621,9 +6621,9 @@
         "QualitativeDescription": "70% developed.  Better element moving out.  Good transportation.  All utilities.  Restricted.  Remote from schools and shopping centers.  Mixed area with wide spread in property values.  Removal of Ford plant from Highland Park was unfavorable to the area.  On Margaret and on Savannah there are 10 4-flats at from $11,000 to $16,500 and a few on Robinwood in the $16,500 range.  On Golden Gate and on Hollywood 2-flats range $10,000 to $15,000.  Through the area north of Savannah, $2500 properties may be found right among the $10,000 homes.  Lack of restriction enforcement population shifting make this a 3rd grade area.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.42799999999982,
         "RandomLong": -83.10399999999952,
-        "MedianIncome": null,
-        "CensusTract": "26163509000",
-        "PercentBlack": null
+        "MedianIncome": 27284,
+        "CensusTract": "26163507900",
+        "PercentBlack": 0.7993168232280102
     },
     {
         "Coordinates": [
@@ -6750,7 +6750,7 @@
         "QualitativeDescription": "Harned to Wexford between Lants and the 7-Mile Rd. is above the area average, as is Fenelon to Moonart between Lantz and the 7-Mile Rd. Bloom to Mound between Emory and the 7-Mile Rd. is below average as is the triangle, Conant, State Fair and Dequindre.  Along Outer Drive there are a few 6-room Colonial frames in the $7000 range.  There is business on 7-Mile Rd. and on Conant.  The area is remote from civic, social, and employment centers.  10% developed.  Developing is a 3rd grade area not in the line of the city's growth.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.42799999999982,
         "RandomLong": -83.05599999999946,
-        "MedianIncome": "25426",
+        "MedianIncome": 25426,
         "CensusTract": "26163507000",
         "PercentBlack": 0.9536970567121321
     },
@@ -6907,7 +6907,7 @@
         "QualitativeDescription": "This area is 70% developed.  All uitilities.  Shopping centers & schools.  Remote from city centers.  Some unpaved streets,  Poorly graded or ungraded alleys.  Adjoins poor sections.  R.R. smoke is a detriment. Houses are not too well kept up.  There is inharmonious infiltration northward from below the R.R. tracks.  The area east of VanDyke & north of Bliss is newer, up to 10 years of age, here the brick veneer singles range in value $7000-10,000 and are occupied by professional and business men.  On Arcola, the southernmost streets but one, of the area, there are a few $6000-8000 2-flats.  Other than as noted here the area is as above.  In the north end of the area, Outer Drive to Nevada St. and particularly on Rogge and on Sponoor as far south as 7-Mile Rd. we find the most desirable parts of the area, exclusive of that noted as being east of VanDyke.  Next in desirability are the just north of Forestown Cemetery and those just east of the Cemetery as far east as Gilbo.  The whole area is in decline except the northeast tip as described and inharmonious infiltration will eventually overtake that.  VanDyke is a street of stores and business.  3rd grade area because of inharmonious infiltration.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.02399999999942,
-        "MedianIncome": "26761",
+        "MedianIncome": 26761,
         "CensusTract": "26163506300",
         "PercentBlack": 0.935041716328963
     },
@@ -6972,9 +6972,9 @@
         "QualitativeDescription": "40% developed.  All city facilities except some unpaved streets.  Not in the path of city development.  Remote from centers.  Most desirable section is that south on Linnhurst.  Developing as a 3rd grade area.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.43999999999981,
         "RandomLong": -83.0079999999994,
-        "MedianIncome": null,
-        "CensusTract": "26163505600",
-        "PercentBlack": null
+        "MedianIncome": 25556,
+        "CensusTract": "26163505000",
+        "PercentBlack": 0.977296181630547
     },
     {
         "Coordinates": [
@@ -7057,7 +7057,7 @@
         "QualitativeDescription": "50% developed.  Deed restrictions.  Convenient to grade schools.  Remote from shopping centers and high schools.  Too near city airport.  Poor transportation.  Some unpaved streets.  Poorly graded alleys.  Heterogeneous development.  Some $7000- 7-rm singles on Runyon Street.  Some $8000-11,000 singles on College, otherwise the area is as above.  From Portlance to Mindon there is the bulk of new construction.  Streets are tree lined.  New brick veneer homes Hoover to Strasburg, between McNichols Rd. and Groiner.  Area lacks restriction enforcement and ranks 3rd grade.  *Heavily from McNichols Rd. to Christy.  Scattered north of McNichols Rd. east of Annott.   **See explanation sheet for Area Descriptions.",
         "RandomLat": 42.415999999999826,
         "RandomLong": -82.99599999999938,
-        "MedianIncome": "31250",
+        "MedianIncome": 31250,
         "CensusTract": "26163505400",
         "PercentBlack": 0.895482728077945
     },
@@ -7126,7 +7126,7 @@
         "QualitativeDescription": "35% developed.  All utilities.  Schools, shopping centers.  Mixed nationalities.  Weak restrictions.  Poor maintenance.  Transportation limited.  Unpaved streets and poorly graded alleys.  Basementless and garage type houses.  Prevailing single in the area is $3500.  Prevailing 2-flat $4500.  East of Hayes and south of Bringard Drive there are shacks rating a low \"D\".  North of Rossin Drive and west of Gratiot, probably 10% developed.  Has single brick veneer very neat.  Small frame cottages of a better type are found on Edmore, Collingham and Bringard Drive east of Hayes.  Scattered sparse settlement lacks definite trend and permits no better than 3rd grading.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.44399999999981,
         "RandomLong": -82.97199999999935,
-        "MedianIncome": "36699",
+        "MedianIncome": 36699,
         "CensusTract": "26163503100",
         "PercentBlack": 0.9292929292929293
     },
@@ -7207,7 +7207,7 @@
         "QualitativeDescription": "Gas, water, electric lights, sewers, arterial highway. Poor lending area. Too far out, adjoins cemetery. Slow development. Unpaved streets. Far from schools and employment centers. 15% developed. Beyond path of city development. Some frame singles without basements. Some better houses in extreme northeast Kress Street & Glenhurst. Area well shaded. Building slowly by lot owners for occupancy-not being built by speculative developers. Sparse settlement without definite pattern rates the area 3rd grade. ",
         "RandomLat": 42.42399999999982,
         "RandomLong": -83.27199999999972,
-        "MedianIncome": "36332",
+        "MedianIncome": 36332,
         "CensusTract": "26163541400",
         "PercentBlack": 0.8366235534377128
     },
@@ -7268,7 +7268,7 @@
         "QualitativeDescription": "45% developed.  All utilities.  Close to school.  Unpaved streets.  Weak restrictions.  Remote from civic and social centers off the car or bus lines.  Heavy foreclosures.  Rates 3rd grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.43199999999982,
         "RandomLong": -82.96799999999935,
-        "MedianIncome": "39286",
+        "MedianIncome": 39286,
         "CensusTract": "26163500600",
         "PercentBlack": 0.97734375
     },
@@ -7377,7 +7377,7 @@
         "QualitativeDescription": "All utilities.  Convenient to schools.  Deed restrictions.  Soe garage type houses on rear of lots.  Industry scattered through the area.  Poorly graded alleys.  Unpaved cross streets.  Smoke from industry.  Only fair maintenance.  Area 65% developed.  The best dwellings are those near Grand River.  Frame singles predominate east of Meyers Road and brick veneer singles and 2-flats predominate west of Meyers Road.  Restrictions not enforced.  Nearness of industry rates the area 3rd grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.383999999999844,
         "RandomLong": -83.17999999999961,
-        "MedianIncome": "22153",
+        "MedianIncome": 22153,
         "CensusTract": "26163537200",
         "PercentBlack": 0.9699646643109541
     },
@@ -7418,7 +7418,7 @@
         "QualitativeDescription": "Fully improved.  Cheap construction.  Poor maintenance.  Stores on Fenkel.  Italian area.  Rating low 3rd or 4th grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.399999999999835,
         "RandomLong": -83.15199999999957,
-        "MedianIncome": "24531",
+        "MedianIncome": 24531,
         "CensusTract": "26163536400",
         "PercentBlack": 0.9393278044522043
     },
@@ -7539,7 +7539,7 @@
         "QualitativeDescription": "8 to 13 family apartments on Sorrento near Grand River.  The best dwellings are those close to Grand River.  50% developed.  Most streets oiled but not paved.  All city facilities.  Industrial area rating 3rd grade.  *Steady scattered production from Cherrylawn to Greenlawn north of Lyndon.  **See explanation sheet for Area Descriptions.",
         "RandomLat": 42.39199999999984,
         "RandomLong": -83.1759999999996,
-        "MedianIncome": "22153",
+        "MedianIncome": 22153,
         "CensusTract": "26163537200",
         "PercentBlack": 0.9699646643109541
     },
@@ -7616,7 +7616,7 @@
         "QualitativeDescription": "On Ohio there area a number of apartment buildings. On Cherrylawn and on Indiana near Schoolcraft Prudential life holds 10 2-flats at $8500-$11,500. These may bring $8000. 70% developed. There is a city incinerator on Davison at the R.R. tracks in Area C-25 which adversely affects the northern end of this area. This with R.R. along eastern edge makes it a 3rd grade area. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.379999999999846,
         "RandomLong": -83.15199999999957,
-        "MedianIncome": "27679",
+        "MedianIncome": 27679,
         "CensusTract": "26163534200",
         "PercentBlack": 0.9495967741935484
     },
@@ -7709,7 +7709,7 @@
         "QualitativeDescription": "90% developed. All city facilities. Close to factory work. Area has industrial sites, coal and supply yards. Small lots. Poor maintenance. Mixed social groups. Obsolete structures. High foreclosure. On American and on Central between Dover and Tireman singles and 2-flats are above the area average as given above. Slightly above the area averages as given is that section of Grand River from American to Ridgewood, Ridgewood to Steepel, Steepel to Chicago, Chicago to American and American back to Grand River. There are few new 6-room singles on Wykes below Chicago in the $5000-6000 range, and 2-flats below Chicago on Prairie, Wykes & Burnett range $6000-8000. Otherwise the area is as above. Military & Carbondale Streets border on industry and are very ordinary frame singles with a few frame 2-flats. South of Chicago is ordinary 1 1/2-story cottage and bungalow type in neglected condition. Industrial area rating 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.347999999999864,
         "RandomLong": -83.13599999999956,
-        "MedianIncome": "21154",
+        "MedianIncome": 21154,
         "CensusTract": "26163526500",
         "PercentBlack": 0.72796106003245
     },
@@ -7822,7 +7822,7 @@
         "QualitativeDescription": "90% developed. Institutional overhand 92 2-flats, 29 singles, 50 3-flats, 18 4-flats. Institutional sales 27 2-flats, 30 singles, 0 3-flats, 7 4-flats. On Oakman Blvd. from Fullerton to Livernois there are $8000 to $20,000 singles. Within the boundary of Prairies, Buena Vista, Stoepel & Elmhurst, Prudential has 40 3-flats listed from $13,900 to $14,300. These would probably actually bring $11,000. An incinerator plant at Davison and the R.R. in area C-25 adversely affects the north end of this area. This with industry rates the area 3rd grade. There are a few singles on Hillsboro priced at $10,000. The best streets are Greenway & Underwood where Brick Veneer and Stucco bungalow type singles are valued $8000 to $14,000. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.379999999999846,
         "RandomLong": -83.13999999999956,
-        "MedianIncome": "22486",
+        "MedianIncome": 22486,
         "CensusTract": "26163534100",
         "PercentBlack": 0.9547058823529412
     },
@@ -7863,7 +7863,7 @@
         "QualitativeDescription": "75% developed. All utilities and conveniences. Streets are heavy traffic arteries. Incompatible school groups. On Waverly and on Tyler, Prudential has 17 3-flats held at $13,900. They have 4 2-flats on Tyler held at $13,200. There are a few 4-flats in the area and on Broadstreet there area  few big brick singles ranging up to $25,000. All that area west of Peteskey is heavily wooded. Area in decline. Incompatible elements rate the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.383999999999844,
         "RandomLong": -83.13599999999956,
-        "MedianIncome": "26922",
+        "MedianIncome": 26922,
         "CensusTract": "26163530500",
         "PercentBlack": 0.9773499433748585
     },
@@ -7904,7 +7904,7 @@
         "QualitativeDescription": "Joy Road to Collingwood is made up mostly of small single frames with an occasional $6000-8000 single on Martindale and on Quincy. The 4-flats are all south of Collingwood. There are stores and garages on Joy Road. There is vandalism on the south end of Cascade. 90% developed. Incompatible elements rate the area 3rd grade. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.379999999999846,
         "RandomLong": -83.13199999999955,
-        "MedianIncome": "28019",
+        "MedianIncome": 28019,
         "CensusTract": "26163530900",
         "PercentBlack": 0.9475738984941439
     },
@@ -7997,7 +7997,7 @@
         "QualitativeDescription": "Conveniently located. Schools, transportation and shopping centers. All utilities. 90% developed. On oakman Blvd. from Livernois to Linwood there are singles at from $11,000 to $16,000. Along the R.R. there is industry. Prudential Life has 15 3-flats on the west end of Clements held at $13,900 and 6 of the same on the west end of Grand Street. Prudential also has a few 4-flats on Monterey at $15,000 to $18,000. They have 25 2-flats held at $12,600 to $13,200 in the area bounded Wildemere, Fullerton, Lawton & Richton. They have on Grand and on Clements near Wildemere, 20 2-flats held at $12,600 to $13,200. There are some other 3-flats and 4-flats nearby. Prudential has a number of 3-flats at $13,900 on Pasadena and on Kendall near Wildemere. All these Prudential listings area at $3000 to $4000 above the price they will bring. On Wildemere big old singles got up to $15,000. There are 4-flats on Savery in the $10,000 range. On Waverly and on Glendale near Linwood there are a 7-8 room brick singles $11,000-$12,000. On Elmhurst and on Tuxedo near Lindwood there area  few 4-flats at $12,000. With these exceptions, the area is as above. There are stores on Linwood. Boston, Rochester & Chicago are apartment house streets. Aging central area of incompatible elements rating 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.39199999999984,
         "RandomLong": -83.13599999999956,
-        "MedianIncome": "24408",
+        "MedianIncome": 24408,
         "CensusTract": "26163530400",
         "PercentBlack": 0.9571068124474348
     },
@@ -8082,7 +8082,7 @@
         "QualitativeDescription": "All utilities. Good racial group. Convenient to schools and shopping centers. Remote from work. Higher income group moving out. Transportation none too good. Area 50% developed. Part of Redford annexed by Detroit in 1924. Margareta St. on northernmost limit has good brick singles, above area average. On Grand River there are old big expensively constructed residences. Street cars on Grand River. Bus on McNichols Road. Developing slowly by owners. The only speculative building is as above. 3rd grade due to age and obsolescence. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.26399999999971,
-        "MedianIncome": "36332",
+        "MedianIncome": 36332,
         "CensusTract": "26163541400",
         "PercentBlack": 0.8366235534377128
     },
@@ -8143,7 +8143,7 @@
         "QualitativeDescription": "Convenient to schools, shopping and social centers. Homogeneous construction. Formerly conservative residents of old class. There is steady Jewish infiltration. Values have declined to offset obsolescence and area has probably stabilized at current prices and at current degree of desirability. Calvert is a high class duplex street. On Boston and on Chicago values of singles run up to $20,000. Otherwise the area is as above. 90% developed. Mixed elements of the population rate the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.383999999999844,
         "RandomLong": -83.10799999999952,
-        "MedianIncome": "29167",
+        "MedianIncome": 29167,
         "CensusTract": "26163531300",
         "PercentBlack": 0.9344978165938864
     },
@@ -8220,9 +8220,9 @@
         "QualitativeDescription": "All city facilities. Better element moving out. Restrictions expiring. Bldgs, becoming obsolete. Wide variation of values. Boston Blvd., Arden Park and Chicago Blvd. formerly exclusive residential values $10,000-40,000. Sales difficult because of encroachment of \"D\" area. Between Hamilton & Woodward brick construction predominates except on Collingwood which is frame. Trend toward apartments. There is a liberal sprinkling of 4-flats, $10,000 to $13,000 range. On Trowbridge there are some old high priced singles. Boston & Chicago Blvd. residents are a group with high incomes. Atkinson, Edison and Longfellow are brick veneer singles with a few frame and stucco singles. Desirability of the area falls off sharply from Glynn Court goining northward. West end of Webb & Tuxedo largely 2 and 4-flat structures. East of Woodward sales prices and rentals area of the lower bracket given above. North of Burlingame values sink to $4500-$7500 and rents $22.50-$35.00. Conversion rates this area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.383999999999844,
         "RandomLong": -83.0959999999995,
-        "MedianIncome": null,
-        "CensusTract": "26163532100",
-        "PercentBlack": null
+        "MedianIncome": 101389,
+        "CensusTract": "26163532300",
+        "PercentBlack": 0.6086956521739131
     },
     {
         "Coordinates": [
@@ -8277,7 +8277,7 @@
         "QualitativeDescription": "100% developed. All utilities. Convenient to schools and shopping and social centers. Heterogeneous housing. Heavy traffic on arterial highways. Negro area just to the south. Substantial construction as far south as Ivanhoe inclusive. Number of 4-flats on Linsdale and on Fernwood. The higher priced singles are on Linsdale and there are big old singles on Tireman. There are occassional apartment structures in the area. There are higher priced 2-flats and 4-flats on Seebaldt. There are about 15 singles on Spokane and on ivanhoe priced $6200-9000. This is too high. They are not selling. Danger of negro infiltration which gives the area a \"C\" rating. Colfax Ave. is made up of ordinary cheap frames in fair to good condition. Better type brick veneer construction is near Grand River. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.35599999999986,
         "RandomLong": -83.11599999999953,
-        "MedianIncome": "17738",
+        "MedianIncome": 17738,
         "CensusTract": "26163533600",
         "PercentBlack": 0.9537366548042705
     },
@@ -8326,7 +8326,7 @@
         "QualitativeDescription": "Convenient to schools and shopping centers. All paved streets. All utilities. Southern end of the area is older. Outward movement of families will eventually reduce the grading of this more central area. There are big old singles along Grand River and along Dexter running up to $16,000. Otherwise the area is as above. Infiltration gives the area a 3rd grade rating. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.36799999999985,
         "RandomLong": -83.11199999999953,
-        "MedianIncome": "24292",
+        "MedianIncome": 24292,
         "CensusTract": "26163533200",
         "PercentBlack": 0.9508196721311475
     },
@@ -8367,7 +8367,7 @@
         "QualitativeDescription": "Better element moving out. Heavy foreclosure. South end older. Apartment bldgs. in the area. On Hogarth, Whitney and Virginia Park, there are a number of 4-flats $10,000 to $12,000 range. Changing population, inharmonious groups. Heavy traffic. Heterogeneous housing. Shifting population gives the area a 3rd grade rating. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.37199999999985,
         "RandomLong": -83.10799999999952,
-        "MedianIncome": "24292",
+        "MedianIncome": 24292,
         "CensusTract": "26163533200",
         "PercentBlack": 0.9508196721311475
     },
@@ -8404,7 +8404,7 @@
         "QualitativeDescription": "All city facilities. Higher income group moving out. Character of occupants changing. Mixed school groups. On LaSalle Garden St. singles are listed at $10,000 to $25,000, which actually bring $8000-13,000. There are high priced, big, old singles along LaSalle Blvd. There are some 4-flats on Virginia Park, Columbus, Whitney and Hogarth in the $10,000-16,000 range. There is a very wide range in value. There are stores on Linwood. Otherwise the area is as above. Taylor, Hazelwood, Gladstone area brick, and brick veneer 2-flats. Lothrop is a wide street of good appearance, singles and 2-flats. LaMothe is a street of all singles, mixed construction. LaSalle is a fine street from Virginia Park southward. Age of structures and shifting population rate the are 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.37199999999985,
         "RandomLong": -83.10399999999952,
-        "MedianIncome": "20724",
+        "MedianIncome": 20724,
         "CensusTract": "26163533100",
         "PercentBlack": 0.8742762613730356
     },
@@ -8485,7 +8485,7 @@
         "QualitativeDescription": "All city facilities. Near big shopping area. Formerly fashionable. Old residents moving out. Character changing. Trend is toward apartments. The area east of Hamilton was at one time particularly pretentious. 14th to 12th very mixed-singles, 2-flats, 4-flats and large apartments. Wide range of values. Age of structures and mixed population rate the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.37599999999985,
         "RandomLong": -83.0879999999995,
-        "MedianIncome": "29500",
+        "MedianIncome": 29500,
         "CensusTract": "26163532700",
         "PercentBlack": 0.9210526315789473
     },
@@ -8554,9 +8554,9 @@
         "QualitativeDescription": "Removal of Ford Plant from Highland Park hurt values and rents. Syracuse St. and east thereof $4600 to $5500 frames are to be found. West of Syracuse the range is $2000-3500 except on Eureka and on Buffalo which are somewhat better. High foreclosure followed the removal of the Ford Plant. Except for these notes the area generally is as above. Age and population rate the area 3rd grade. *See explanation sheet for Area Descriptions",
         "RandomLat": 42.41199999999983,
         "RandomLong": -83.05999999999946,
-        "MedianIncome": null,
-        "CensusTract": "26163509100",
-        "PercentBlack": null
+        "MedianIncome": 32006,
+        "CensusTract": "26163510500",
+        "PercentBlack": 0.1539951573849879
     },
     {
         "Coordinates": [
@@ -8619,9 +8619,9 @@
         "QualitativeDescription": "100% developed. All city facilities. The best of the 2-flats are on Field St.; Harper and VanDyke is a business center. Age and population elements rate the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.38799999999984,
         "RandomLong": -83.02399999999942,
-        "MedianIncome": null,
-        "CensusTract": "26163505800",
-        "PercentBlack": null
+        "MedianIncome": 18891,
+        "CensusTract": "26163511000",
+        "PercentBlack": 0.8946459412780656
     },
     {
         "Coordinates": [
@@ -8668,9 +8668,9 @@
         "QualitativeDescription": "100% developed.  All city facilities.  Badger St. is made up of Brick Veneer singles and bungalows.  Age and type of structures rate the area 3rd grade;  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.39599999999984,
         "RandomLong": -83.01999999999941,
-        "MedianIncome": null,
-        "CensusTract": "26163505700",
-        "PercentBlack": null
+        "MedianIncome": 18977,
+        "CensusTract": "26163504700",
+        "PercentBlack": 0.9318323952470294
     },
     {
         "Coordinates": [
@@ -8717,7 +8717,7 @@
         "QualitativeDescription": "Good social groups. Convenient to schools and shopping. Transportation fair. All utilities. Light restrictions. Fair construction. 55 minutes from city center. Unpaved streets. 35% developed. Development slow. Heavy foreclosure. Stone houses on Grand River up to $15,000. Otherwise as above. Streets are cinder and gravel, gravel and tar and some just ruts. Until 1924 when it was absorbed by Detroit this was the village of Redford. No speculative building. Age and obsolescence rates the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.415999999999826,
         "RandomLong": -83.24799999999969,
-        "MedianIncome": "20500",
+        "MedianIncome": 20500,
         "CensusTract": "26163541100",
         "PercentBlack": 0.9447391688771
     },
@@ -8830,7 +8830,7 @@
         "QualitativeDescription": "Industrial sites on the RR 50% developed.  Parts of several streets paved, but most streets are gravel.  Large amount of new cheap construction rating the area 3rd grade.;  *See explanation sheet for Area Description",
         "RandomLat": 42.37599999999985,
         "RandomLong": -83.21599999999965,
-        "MedianIncome": "33750",
+        "MedianIncome": 33750,
         "CensusTract": "26163545100",
         "PercentBlack": 0.9283980582524272
     },
@@ -8931,9 +8931,9 @@
         "QualitativeDescription": "25 % developed.  All utilities.  Adjoins undeveloped area.  Only fair construction.  Some unpaved streets.  Area is uniform.  New section in path of city growth.  North of Chicago, the first block on Mark Twain and the first block on Whitcomb are better than the area average.  Some streets paved.  Some gravel.  Industry generally along the RR.  Throughout the area there are frame singles and frame cottages on the rear of lots.  On Prest near Plymouth there are 3 lots 35x108 for sale at $1100 for the three.  Nearness of industry and type of development rate the area 3rd grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.35599999999986,
         "RandomLong": -83.19599999999963,
-        "MedianIncome": null,
-        "CensusTract": "26163535800",
-        "PercentBlack": null
+        "MedianIncome": 23953,
+        "CensusTract": "26163535500",
+        "PercentBlack": 0.8539325842696629
     },
     {
         "Coordinates": [
@@ -9000,7 +9000,7 @@
         "QualitativeDescription": "Indstrial sites on the RR 50% developed.  Parts of several streets paved, but msot streets are gravel.  Large amount of now cheap construction rating the area 3rd grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.33999999999987,
         "RandomLong": -83.21999999999966,
-        "MedianIncome": "27806",
+        "MedianIncome": 27806,
         "CensusTract": "26163545800",
         "PercentBlack": 0.5510513354802046
     },
@@ -9081,7 +9081,7 @@
         "QualitativeDescription": "30% developed.  All utilities.  Weak restrictions.  Adjoins sparsely settled area.  Limited civic and social facilities.  Unpaved streets.  No direct transportation to city center.  Cheap construction rates the area 3rd grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.33999999999987,
         "RandomLong": -83.21199999999965,
-        "MedianIncome": "24847",
+        "MedianIncome": 24847,
         "CensusTract": "26163545600",
         "PercentBlack": 0.14681386790625606
     },
@@ -9154,7 +9154,7 @@
         "QualitativeDescription": "Satisfactory transportation.  Too near industrial plants.  Liddesdale, south of Shaefer Highway, Annabelle and Beatrice, Schaefer Highway to Viager are newer, brick construction with values $4000-7000.  Otherwise the area is as given above.  In the area west of South Fort Street and south of Visger there are a few larger brick veneer singles.  Most streets and all alleys are unpaved.  The area does not have adequate school facilities.  50% developed.  Type of population rates the area 3rd grade.  *Steady new construction all of both 1937 and 1938 principally between Edson and Beatrice Sts.",
         "RandomLat": 42.275999999999904,
         "RandomLong": -83.15199999999957,
-        "MedianIncome": "26606",
+        "MedianIncome": 26606,
         "CensusTract": "26163524700",
         "PercentBlack": 0.7891837756634953
     },
@@ -9199,7 +9199,7 @@
         "QualitativeDescription": "Second generation Polish.  Pride of ownership.  Properties well maintained.  Values probably static 5 years.  This area is Lonyo and St. Lawrence Sts. only.  Will eventually be absorbed by 4th grade rating.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.33199999999987,
         "RandomLong": -83.14399999999956,
-        "MedianIncome": "32740",
+        "MedianIncome": 32740,
         "CensusTract": "26163526200",
         "PercentBlack": 0.07157831686133573
     },
@@ -9336,9 +9336,9 @@
         "QualitativeDescription": "Good sales & rental demand due to proximity of Ford Plants. Convenient to schools. Good transportation. Smoke from R.R. and factories. Remote from city centers. Heavy foreclosure. Limited appeal. Stores on Springwells and on Verner Highway. 8 to 15 flat apartment buildings scattered through the area. On Mason Place and on Woodmere, there are a few large brick singles $8000-14,000. Otherwise the area is as above. Area generally neat in appearance. Shifting population is gradually reducing the area grading. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.31599999999988,
         "RandomLong": -83.13199999999955,
-        "MedianIncome": null,
-        "CensusTract": "26163524101",
-        "PercentBlack": null
+        "MedianIncome": 21000,
+        "CensusTract": "26163524100",
+        "PercentBlack": 0.14974358974358976
     },
     {
         "Coordinates": [
@@ -9373,7 +9373,7 @@
         "QualitativeDescription": "Rademacher & Casgrain two good streets. Will eventually be absorbed by \"D\" area. ",
         "RandomLat": 42.307999999999886,
         "RandomLong": -83.10799999999952,
-        "MedianIncome": "31352",
+        "MedianIncome": 31352,
         "CensusTract": "26163523800",
         "PercentBlack": 0.09564833222884912
     },
@@ -9422,7 +9422,7 @@
         "QualitativeDescription": "Formerly exclusive. Better element moving out. Eventually to be absorbed by \"D\" area surrounding. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.31999999999988,
         "RandomLong": -83.0919999999995,
-        "MedianIncome": "21887",
+        "MedianIncome": 21887,
         "CensusTract": "26163523400",
         "PercentBlack": 0.28397467121285924
     },
@@ -9479,7 +9479,7 @@
         "QualitativeDescription": "Business encroachment from R.R., Hamilton Ave. & Grand River Ave. area in conversion. On Avery, Commonwealth & Trumbull there are 15 to 30 room singles valued $8000-$15,000. There are comparatively better 2-flats on Commonwealth. Large singles on Hancock. $1000 to $1600 singles on Hamilton. $5000 to $7000 singles on Lincoln. Better grade 2-flats on Lincoln. Better 2-flats ($9000) and 10-14 room singles $7500 range on Forest. On Putnam there are some $9000 2-flats. On both Putnam & Warren there are 9-15 room singles, $5500-$7000 range. West of Trumbull there is an increase in the percentage of residential structures to commercial buildings. Industry is scattered throughout the area. Area in conversion to a \"D\" rating. Converting to rooming houses and light housekeeping. Multiples will not sell except at great writedown. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.343999999999866,
         "RandomLong": -83.07599999999948,
-        "MedianIncome": "24836",
+        "MedianIncome": 24836,
         "CensusTract": "26163521900",
         "PercentBlack": 0.5233936369307548
     },
@@ -9532,7 +9532,7 @@
         "QualitativeDescription": "Comparatively poor spot in otherwise better area. This is older than surrounding areas except \"D-6\" and rates 3rd grade. *See explanation sheet for Area Descriptions",
         "RandomLat": 42.41199999999983,
         "RandomLong": -83.19599999999963,
-        "MedianIncome": "30246",
+        "MedianIncome": 30246,
         "CensusTract": "26163537600",
         "PercentBlack": 0.946292340555386
     },
@@ -9597,7 +9597,7 @@
         "QualitativeDescription": "Area in conversion to Clinics, Insurance, Furniture, Business & Apts. east of Woodward once very fine residential, now rooming houses, apts. and apt. hotels. Alien and negro encroachment from the east and south. Second Blvd. and west 7-12 singles. Cass & Palmer 2-flats up to $20,000. Streets from Woodward to Second large singles up to 18 rooms, priced $10,000-$25,000. Farnsworth & Frederick 7-8 room singles $5000-$7000. One 100 flat apartment Brush & Hendrie value $250,000. The area will slowly decline. It is converting to rooming houses and light housekeeping. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.363999999999855,
         "RandomLong": -83.06399999999947,
-        "MedianIncome": "34182",
+        "MedianIncome": 34182,
         "CensusTract": "26163518000",
         "PercentBlack": 0.5364190886257625
     },
@@ -9658,9 +9658,9 @@
         "QualitativeDescription": "Area is in conversion to business, garages, etc. Grand Blvd. and McDougall St. are both above the average of the area. On Grand Blvd. 2-flats run up to $10,000. Otherwise the area is as above. Singles converting into light housekeeping. Area rates low 3rd or high 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.36799999999985,
         "RandomLong": -83.03199999999943,
-        "MedianIncome": null,
-        "CensusTract": "26163519000",
-        "PercentBlack": null
+        "MedianIncome": 18438,
+        "CensusTract": "26163518600",
+        "PercentBlack": 0.9606299212598425
     },
     {
         "Coordinates": [
@@ -9759,7 +9759,7 @@
         "QualitativeDescription": "North of Gratiot Ave. values range $3000-$5000. South of Gratiot the area is one of big old houses of high reproduction cost with a liberal sprinkling of cheap frames. Helen St., Field St. and Grand Blvd. have buildings with reproduction costs up to $25,000, Sheridan, Baldwin, Seyburn, Seminole and Burns, slightly less. Structures area obsolete. Residents are of mixed races. Area is past its peak. Better element is moving out. Mack, Charlevoix, Kercheval & Jefferson are business streets. Ferry & Warren just east of the Lutheran Cemetery are slightly above area average. South of Mack the better Brick Veneer singles are on Field and on Seyburn. Many big old houses converting to light housekeeping units. Whole area in rapid decline which grades it 3rd class. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.37199999999985,
         "RandomLong": -83.0039999999994,
-        "MedianIncome": "30903",
+        "MedianIncome": 30903,
         "CensusTract": "26163516000",
         "PercentBlack": 0.8691891891891892
     },
@@ -9812,7 +9812,7 @@
         "QualitativeDescription": "Shade trees- Wide streets- Old exclusive area. Better element moving out. Heavy shrinkage from 1927-29 prices, as deed restrictions expire. Large homes on large lots. Houses obsolete and for sale at small part of reproduction costs. Numbers of original owners are still in the area but migration of this class to newer and more modern areas is definite. Formerly beautiful and exclusive neighborhood- past its peak and on the down grade. Many large homes on large lots cost up to $40,000. Question whether they could profitably be converted to multiples for light housekeeping. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.35999999999986,
         "RandomLong": -82.99599999999938,
-        "MedianIncome": "57375",
+        "MedianIncome": 57375,
         "CensusTract": "26163515400",
         "PercentBlack": 0.4918887601390498
     },
@@ -9901,7 +9901,7 @@
         "QualitativeDescription": "Trend is toward rentals. Some better type structures valued up to $8000 in both singles and 2-flats are on Beniteau from Warren to Mack. Fisher to McClelland south of Mack is older and not well maintained. From Shoemaker to Charlevoix between McClelland and Pennsylvania buildings are below average, not well maintained and there is negro encroachment, though on Pennsylvania itself there are the better type singles and 2-flats as there are to some extent on Rohns. On French between Canfield & Mack there are a few 2-flats, $5000 range. There is a substandard area from Warren to Mack between St. Clair and Montclair with a few negroes on Harding north of Canfield. Industry abutts the northeast corner of the area. North of Warren and east of Cadillac there has been a very considerable amount of reconditioning. Type of population and structural conversions rates the area of low 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.383999999999844,
         "RandomLong": -82.98799999999937,
-        "MedianIncome": "25099",
+        "MedianIncome": 25099,
         "CensusTract": "26163514100",
         "PercentBlack": 0.9574549635875814
     },
@@ -9954,7 +9954,7 @@
         "QualitativeDescription": "Old area. Wide variation of income groups. Better element moving out. Character changing. Becoming obsolete. On Cadillac there are some better 2-flats. On Cadillac and on Hurlbut there are some 8-10 room singles valued $8000-$11,000. On Bewick and on Garland below Kercheval there are some 4-flats valued $11,000-$12,000. On Bewick below Kercheval there are 8-9 room singles valued $6500-$8000. On Montclair and on harding between Kercheval & Vernor highway there are 4-flats valued $12,000. Kercheval is a business street. Other than as noted the area is as above. Age, obsolescence and shifting population give the area a 3rd grade rating. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.37199999999985,
         "RandomLong": -82.97599999999936,
-        "MedianIncome": "21771",
+        "MedianIncome": 21771,
         "CensusTract": "26163513900",
         "PercentBlack": 0.9561143984220908
     },
@@ -9991,7 +9991,7 @@
         "QualitativeDescription": "65% developed. Lots 75 feet. $14,000 to $18,000 homes on Lodge. One $12,000 home on Fiske. One $110,000 home on Dwight facing the river. Deed restrictions. Two parks. All utilities. Good approach. Senior executives moving away. Smoke from city waterworks just to the east. Necessary to cross heavy traffic, arterial highway (Jefferson Ave.) to get to schools. Area has passed its peak and is rated 3rd grade. Those who would buy high priced buildings will pick newer areas. ",
         "RandomLat": 42.35599999999986,
         "RandomLong": -82.98399999999937,
-        "MedianIncome": "39269",
+        "MedianIncome": 39269,
         "CensusTract": "26163515700",
         "PercentBlack": 0.6763245033112583
     },
@@ -10040,7 +10040,7 @@
         "QualitativeDescription": "95% developed. Restricted. Convenient to schools, shopping centers, transportation. Near park. Shifting population. Smoke from waterworks pumping station. West boundary newer. 9-13 family apartment buildings on St. Clair at $25,000 to $32,000. 2-flats on Marquette $10,000 to $13,000 range. 8-room singles on Meadowbrook $6000-$7000. 8-room singles on Lemay $2500-$4000. 2-flats on Harding, Meadowbrook and Montclair $5500-$9000. All priced too high. 2-flats actually move at below $6000. Area is past its peak and rates 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.363999999999855,
         "RandomLong": -82.97599999999936,
-        "MedianIncome": "23610",
+        "MedianIncome": 23610,
         "CensusTract": "26163513700",
         "PercentBlack": 0.9450269198073109
     },
@@ -10085,9 +10085,9 @@
         "QualitativeDescription": "70% improved. All utilities. Grade schools. Near park. Narrow lots. Some houses without basements. Only fair transportation. There are a few $7000 8-rm. brick singles on Harrell and on Norcross. 8 2-flats on Harrell are held by H.P. Holmes & Co. at $10,000 each. Otherwise the area is as above. The low priced 2-flats are on Gunston and on Malcolm. Type of population rate the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.39599999999984,
         "RandomLong": -82.98399999999937,
-        "MedianIncome": null,
-        "CensusTract": "26163502600",
-        "PercentBlack": null
+        "MedianIncome": 11940,
+        "CensusTract": "26163512200",
+        "PercentBlack": 0.9958263772954925
     },
     {
         "Coordinates": [
@@ -10166,9 +10166,9 @@
         "QualitativeDescription": "Level. 85% developed. Near Hudson, Chrysler and other automotive plants with usual factory detrimental influences. Retail streets are Warren, Mack, Vernor Highway and Jefferson with a major shopping center at Jefferson and Chalmers. North of Mack properties are newer and brick construction prevails. Between Kercheval and Mack average age is up to 20 years. South of Kercheval frames predominate and structures are older. Between Chandler Park & Warren from Connors to Dickerson there is a low cost housing project of 1130 units. On Wayburn, Maryland and Lakepointe from Lozier, north, as well as the full length of Lakewood Street, values are well above the area average. Some 2-flats on Lakewood north of Mack Ave. are held at $16,000. This compares with a $12,000 top on Dickerson north of Mack and with a $8000-$10,000 range on Lenox between Kercheval & Jefferson. Currently these Lenox 2-flats would actually bring $6500-$8000. Single frames on Marlboro below Kercheval range as low as $1500-$3500 and on Eastlawn north of Mack as high as $8000. Otherwise the area is as above. In the West Algonquin is probably the best street. North end of Connors has some boarded up houses. The wide range in class and type of residents, the wide range in size, type and price of structures, lack of restrictions or zoning, number of foreclosures and large institutional holdings makes this something below a \"B\" minus area and grades it as a \"C\" plus. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.39199999999984,
         "RandomLong": -82.95199999999933,
-        "MedianIncome": null,
-        "CensusTract": "26163502700",
-        "PercentBlack": null
+        "MedianIncome": 9977,
+        "CensusTract": "26163512400",
+        "PercentBlack": 0.9893203883495145
     },
     {
         "Coordinates": [
@@ -10203,7 +10203,7 @@
         "QualitativeDescription": "85% developed. All city facilities. Unpaved side streets and alleys. Smoke from college power house. Just fair construction. Necessary to cross heavy traffic to get to schools. Homogeneous development. Restricted. Singles on Roselawn, Northlawn, Cherrylawn, Ohio and Wisconsin, 2-flats on Indiana and on Kentucky. On these two streets Prudential Life has 50 2-flats priced at $10,700-$13,200. In this are 5-room 2-flats will actually bring about $8000-8500 and 6-room 2-flats about $9000. Well wooded streets and lots. Inharmonious company reduces the area to a low \"B\" or a high \"C\" rating. Smoke and institutional overhang together with incompatible elements rates the area 3rd grade. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.41199999999983,
         "RandomLong": -83.15199999999957,
-        "MedianIncome": "25323",
+        "MedianIncome": 25323,
         "CensusTract": "26163536100",
         "PercentBlack": 0.962471783295711
     },
@@ -10252,7 +10252,7 @@
         "QualitativeDescription": "98% developed. All utilities. Convenient to schools and shopping centers. Close to employment. Good transportation. Labor class infiltration. Poor area to the west. Better class moving out. Restrictions not enforced. Mixed types of housing. On Emerson there are a few 2 and 4-flats held in the $9000 range. There are a few 2-flats south of Essex held at $10,000. 4-flat buildings on Continental and on Emerson get up to $12,000. There are 5-12 family apartments on Emerson ranging $8000-$16,000. Otherwise the area is as above. Cheaper 2-flats are on Lenox. On Piper south of Essex there are $8000-$9000 singles. On Eastlawn and on Newport north of Essex singles range $4000-$5000. Jefferson is a retail street with a major banking and shopping center at Chalmers. Heteregeneous construction, high institutional holdings and labor influx makes this an area grading below \"B\", at about \"C\" plus. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.363999999999855,
         "RandomLong": -82.94799999999933,
-        "MedianIncome": "23610",
+        "MedianIncome": 23610,
         "CensusTract": "26163513700",
         "PercentBlack": 0.9450269198073109
     },
@@ -10333,7 +10333,7 @@
         "QualitativeDescription": "95% developed. All utilities. Near employment. Good transportation. 2 1/2 miles from high school. Labor moving in. Higher income group moving out. Mixed construction, Brick, frame & stucco. Southern portion somewhat newer and not so fully developed. On Algonquin Playfield 9-room singles are held up to $15,000. On Lakewood and on Chalmers singles range $6000-$10,000. Otherwise the area is as above. On Piper there are 2-flats at $9000-$12,000. On Newport singles are $4000-$8000. On Lakewood and on Chalmers 8-room singles are in the $8000 range. On Marlborough singles range $5500-$7500. Jefferson is a retail street with a major banking and shopping center at Chalmers. Institutional overhang, slow sales, influx of labor drops this area out of the \"B\" classification and rates it \"C\" plus. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.363999999999855,
         "RandomLong": -82.94399999999932,
-        "MedianIncome": "45500",
+        "MedianIncome": 45500,
         "CensusTract": "26163513300",
         "PercentBlack": 0.7782307378719935
     },
@@ -10414,7 +10414,7 @@
         "QualitativeDescription": "Fully developed. All utilities. Convenient to schools & shopping. Good transportation. Infiltration threatening. Some unpaved cross streets and alleys. Obsolescence of construction. One 38-family apartment on Alter Rd. Better grade singles and 2-flats are on Manistique. On Ashland singles range $5500-$7500 and on Philip the range is $3900-$4600. Jefferson is a retail street with a major banking and shopping center at Chalmers. Obsolete structures, slow sales, institutional overhang rates this area somewhat below \"B\" and \"C\" plus. 6 and 8-room frames on Harbor Road at $7500-$14,000. Extreme south end of Ashland has $3500 singles. Southern tip inactive area-aging. Rates little better than \"D\" at about \"C\" minus. ",
         "RandomLat": 42.37199999999985,
         "RandomLong": -82.93999999999932,
-        "MedianIncome": "33100",
+        "MedianIncome": 33100,
         "CensusTract": "26163513200",
         "PercentBlack": 0.7950572634116938
     },
@@ -10475,7 +10475,7 @@
         "QualitativeDescription": "25% developed. All city utilities. Some unpaved streets. Weak restrictions. Mixed construction. Basementless houses and some shacks. Limited bus service. No trolleys. All alleys unpaved. A good area lies just to the west. Type of structures rates the area 3rd grade. *Numbers new construction west of University Place. Scattered north of Chandler Pk. Dr. **See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.40799999999983,
         "RandomLong": -82.9279999999993,
-        "MedianIncome": "38750",
+        "MedianIncome": 38750,
         "CensusTract": "26163501600",
         "PercentBlack": 0.7946990116801438
     },
@@ -10528,7 +10528,7 @@
         "QualitativeDescription": "50% developed. Auto necessary. Isolated vacant space between this and next \"C\" area east is City of Grosse Point dumping ground. Area rates low \"C\" or high \"D\".",
         "RandomLat": 42.41199999999983,
         "RandomLong": -82.91999999999929,
-        "MedianIncome": "38750",
+        "MedianIncome": 38750,
         "CensusTract": "26163501600",
         "PercentBlack": 0.7946990116801438
     },
@@ -10569,7 +10569,7 @@
         "QualitativeDescription": "20% improved. All city facilities. No car line. Low income group. Unpaved streets. Mixed type dwellings. No retsrictions. Vandalism. On Lannoo and on Koppin just north of this area there are a few 6-7-room brick veneers held by local bank receivers at $8000-$9000. Area rates low \"C\" or high \"D\". ",
         "RandomLat": 42.415999999999826,
         "RandomLong": -82.91599999999929,
-        "MedianIncome": "38750",
+        "MedianIncome": 38750,
         "CensusTract": "26163501600",
         "PercentBlack": 0.7946990116801438
     },
@@ -10618,7 +10618,7 @@
         "QualitativeDescription": "Changing character. Mixed groups. Louise St. restricted to bungalows. Woodward Ave. is a commercial street. Apartments are on McNichols Rd. west of Hamilton. All the area west of Hamilton is chiefly frame bungalows with a few frame and brick flats and brick and tile apartments. east of Hamilton there is a mixture of frame, brick veneer and stucco well kept. Type of population rates the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.415999999999826,
         "RandomLong": -83.10399999999952,
-        "MedianIncome": "11580",
+        "MedianIncome": 11580,
         "CensusTract": "26163553000",
         "PercentBlack": 0.9547325102880658
     },
@@ -10663,7 +10663,7 @@
         "QualitativeDescription": "Old area. Higher income group moving out. Character changing. Mixed groups. North from Puritan restricted to singles. Puritan, Moss and Eason are restricted to bungalows. Pilgrim is a 2-flat street. Woodward Ave. & Hamilton are 100% commercial. Type population and nearness to industry rate the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.41199999999983,
         "RandomLong": -83.10399999999952,
-        "MedianIncome": "34205",
+        "MedianIncome": 34205,
         "CensusTract": "26163553100",
         "PercentBlack": 0.876070816676185
     },
@@ -10700,9 +10700,9 @@
         "QualitativeDescription": "Higher income group moving out. Mixed social groups. Mixed type structures. Between Hamilton & Woodward brick construction predominates except on Glendale which is mostly frame. 2-3 and 4-flats are mostly on Cortland, Highland, Glendale and singles except on Elmhurst which is mostly 2-4 flats. West of Hamilton structures are frame priced $2500-$6000. Woodward & Hamilton are retail streets. Infiltration rates the area 3rd class. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.39199999999984,
         "RandomLong": -83.10399999999952,
-        "MedianIncome": null,
-        "CensusTract": "26163559800",
-        "PercentBlack": null
+        "MedianIncome": 14537,
+        "CensusTract": "26163553300",
+        "PercentBlack": 0.9472140762463344
     },
     {
         "Coordinates": [
@@ -10753,7 +10753,7 @@
         "QualitativeDescription": "On Turner and on Tuller near Midland Prudential has 15 2-flats priced $8500-$10,500. These buildings will bring about $8000. Streets are paved. All city facilities. Some rooming houses on Wark Street. There is infiltration of inharmonious elements. Mixed elements rate the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.415999999999826,
         "RandomLong": -83.14399999999956,
-        "MedianIncome": "25323",
+        "MedianIncome": 25323,
         "CensusTract": "26163536100",
         "PercentBlack": 0.962471783295711
     },
@@ -10794,9 +10794,9 @@
         "QualitativeDescription": "All city facilities. Schools, transportation. Better class moving out. Obsolescence. Heavy traffic. Incompatible school groups. 98% developed. Buena Vista is a 2-flat street. McLean St. has big old houses with reproduction costs. South of Buena Vista and West of Brush St. houses are mostly single brick veneer and stucco fairly well kept up. Wooded streets. East of Brush, construction is mostly frame. Some rooming houses on cross streets near Oakland. Woodward Ave. is commercial. Age of structures and type of population rate the area 3rd grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.399999999999835,
         "RandomLong": -83.08399999999949,
-        "MedianIncome": null,
-        "CensusTract": "26163553601",
-        "PercentBlack": null
+        "MedianIncome": 35565,
+        "CensusTract": "26163553600",
+        "PercentBlack": 0.8964803312629399
     },
     {
         "Coordinates": [
@@ -10907,7 +10907,7 @@
         "QualitativeDescription": "Main business street Jos. Campau. Lots small, usually 30 feet. Surrounded by industry and generally undesirable. Area of the town is limited. Many families must stay there for political and other consideration. This tends to make values and rents firm. Area in decline rating 3rd class. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.399999999999835,
         "RandomLong": -83.06399999999947,
-        "MedianIncome": "22125",
+        "MedianIncome": 22125,
         "CensusTract": "26163552100",
         "PercentBlack": 0.24274274274274274
     },
@@ -11024,7 +11024,7 @@
         "QualitativeDescription": "This is the old central section of Birmingham housing many persons who work locally, such as City Employees, Town merchants, etc. Many houses are rather obsolete but because of location demand for units is good. Woodward Avenue is primarily business which has established high ground values there and on adjacent streets. The two-family houses are of more recent date than the one-family units. Rents quoted on units in two-family houses include heat furnished by the owner. Houses on Maple Street carry high valuations because of possible use by city. ",
         "RandomLat": 42.55199999999975,
         "RandomLong": -83.21999999999966,
-        "MedianIncome": "164250",
+        "MedianIncome": 164250,
         "CensusTract": "26125152600",
         "PercentBlack": 0.05503875968992248
     },
@@ -11109,7 +11109,7 @@
         "QualitativeDescription": "Although the majority of the properties in this area are not particularly desirable, rental demand has held up very well because of the low rent level. Vacancy is virtually nil and for this reason downward adjustments in rents during 1938 were not necessary as in other sections of Birmingham. There are many shack type units and so-called garage houses without basements. Section is convenient to schools, shopping centers and transportation, but the fare to Detroit proper is 26 cents by trolley. Employment centers are inconvenient. Restrictions are lacking and there is no paving. Development is about 40% with new building at a standstill. The trend of demand is constant, but the section will probably continue its downward trend in point of desirability to those who can afford better quarters. Woodward Ave. frontages are primarily commercial particularly at the Maple Road intersection. ",
         "RandomLat": 42.53999999999976,
         "RandomLong": -83.20399999999964,
-        "MedianIncome": "89545",
+        "MedianIncome": 89545,
         "CensusTract": "26125152900",
         "PercentBlack": 0.025108643167551906
     },
@@ -11194,7 +11194,7 @@
         "QualitativeDescription": "Although this section is convenient to schools, shopping centers and transportation, demand is limited because of association to the poorer section as school facilities must be shared with residents of that area. Construction is only fair and obsolescence is already a factor. Employment center are distant and trolley fare to Detroit proper is 26 cents. ",
         "RandomLat": 42.53999999999976,
         "RandomLong": -83.21599999999965,
-        "MedianIncome": "115063",
+        "MedianIncome": 115063,
         "CensusTract": "26125153200",
         "PercentBlack": 0.03173803526448363
     },
@@ -11299,7 +11299,7 @@
         "QualitativeDescription": "An outlying town built-up during the auto expansion period. Houses lack uniformity and the reputation of the town is mediocre. New construction is small type houses widely scattered. The bulk of the buildings are concentrated near 14 Mile Road and Main Street with outlying edges either vacant or sparsely settled. General trend of desirability is steadily down. ",
         "RandomLat": 42.53999999999976,
         "RandomLong": -83.15599999999958,
-        "MedianIncome": "67708",
+        "MedianIncome": 67708,
         "CensusTract": "26125180100",
         "PercentBlack": 0.006198347107438017
     },
@@ -11356,7 +11356,7 @@
         "QualitativeDescription": "Although the shack type houses do not warrant a third class rating, the more substantial houses are of fairly good grade. With continued development the area may improve to low second class as it is only 10-15% built up at present. ",
         "RandomLat": 42.51199999999977,
         "RandomLong": -83.19199999999962,
-        "MedianIncome": "65642",
+        "MedianIncome": 65642,
         "CensusTract": "26125183500",
         "PercentBlack": 0.14256368118323748
     },
@@ -11409,7 +11409,7 @@
         "QualitativeDescription": "This sparsely built area has many garage type houses built at rear of lots. Other units range up to 6-7 room units, some of which are quite desirable. Lack of conveniences and inadequacy of transportation and shopping facilities are unfavorable factors. It is very doubtful that any improvement can be expected in coming years. ",
         "RandomLat": 42.50399999999978,
         "RandomLong": -83.19599999999963,
-        "MedianIncome": "73856",
+        "MedianIncome": 73856,
         "CensusTract": "26125170100",
         "PercentBlack": 0.0646835005188516
     },
@@ -11462,7 +11462,7 @@
         "QualitativeDescription": "Although there are several good houses in this section, development is so mixed and general desirability so weak except because of price, it is doubtful if this area will ever improve particularly. Some fair new construction is occuring north of the 12-Mile Road, but stigma of location prevents a more favorable grading. ",
         "RandomLat": 42.491999999999784,
         "RandomLong": -83.1759999999996,
-        "MedianIncome": "81402",
+        "MedianIncome": 81402,
         "CensusTract": "26125170400",
         "PercentBlack": 0.05167014613778706
     },
@@ -11551,7 +11551,7 @@
         "QualitativeDescription": "A sparsely built section with some very good houses definitely out of place in this locality. More advantageously located many would bring 20% more and sell more readily. ",
         "RandomLat": 42.51599999999977,
         "RandomLong": -83.14399999999956,
-        "MedianIncome": "84296",
+        "MedianIncome": 84296,
         "CensusTract": "26125183800",
         "PercentBlack": 0.022442813983599482
     },
@@ -11592,7 +11592,7 @@
         "QualitativeDescription": "Water, gas, electric light, sewers. Remote from work. Adjoins negro area. Unpaved streets. Considerable foreclosure. 35% developed. Rates low 3rd grade or high 4th grade. ",
         "RandomLat": 42.43999999999981,
         "RandomLong": -83.14399999999956,
-        "MedianIncome": "32713",
+        "MedianIncome": 32713,
         "CensusTract": "26163539000",
         "PercentBlack": 0.9405191059841385
     },
@@ -11721,7 +11721,7 @@
         "QualitativeDescription": "This section includes the old central part of Royal Oak with some large old houses desirable because of location. Convenient to business center at 4th and Washington Streets. ",
         "RandomLat": 42.487999999999786,
         "RandomLong": -83.14799999999957,
-        "MedianIncome": "86767",
+        "MedianIncome": 86767,
         "CensusTract": "26125184500",
         "PercentBlack": 0.041480820695807316
     },
@@ -11782,7 +11782,7 @@
         "QualitativeDescription": "Heat is not included in rents quoted for units in the 2-family houses. ",
         "RandomLat": 42.49599999999978,
         "RandomLong": -83.13999999999956,
-        "MedianIncome": "83482",
+        "MedianIncome": 83482,
         "CensusTract": "26125184200",
         "PercentBlack": 0.02689075630252101
     },
@@ -11891,7 +11891,7 @@
         "QualitativeDescription": "The new construction is of small units buily for owner of lot. Similar in many respects to the \"D\" area in Ferndale, but as this area improves, it will be absorbed by the \"C\" area to the east. ",
         "RandomLat": 42.48399999999979,
         "RandomLong": -83.14399999999956,
-        "MedianIncome": "57014",
+        "MedianIncome": 57014,
         "CensusTract": "26125184400",
         "PercentBlack": 0.03169627307558342
     },
@@ -11964,7 +11964,7 @@
         "QualitativeDescription": "",
         "RandomLat": 42.48399999999979,
         "RandomLong": -83.13999999999956,
-        "MedianIncome": "57014",
+        "MedianIncome": 57014,
         "CensusTract": "26125184400",
         "PercentBlack": 0.03169627307558342
     },
@@ -12001,9 +12001,9 @@
         "QualitativeDescription": "A sparsely settled area of heterogeneous development similar in most respects to the Berkley area to the north. With continued development in the \"B\" area to the south, this section may be favorably affected and gradually improved in general character. At present it is less than 10% built. ",
         "RandomLat": 42.48399999999979,
         "RandomLong": -83.1719999999996,
-        "MedianIncome": null,
-        "CensusTract": "26125188001",
-        "PercentBlack": null
+        "MedianIncome": 127450,
+        "CensusTract": "26125188000",
+        "PercentBlack": 0.009097801364670205
     },
     {
         "Coordinates": [
@@ -12086,7 +12086,7 @@
         "QualitativeDescription": "A small area with scattered good houses particularly along Wellesley, Amherst, Maywood and Sylvan Streets. Transportation is double fare to Detroit; Commuter train is available also. School children must cross heavy traffic on Woodward Avenue to school. Section has nice shade trees and shrubbery. Area is about 905 developed. ",
         "RandomLat": 42.4679999999998,
         "RandomLong": -83.13199999999955,
-        "MedianIncome": "62768",
+        "MedianIncome": 62768,
         "CensusTract": "26125173100",
         "PercentBlack": 0.05228758169934641
     },
@@ -12143,7 +12143,7 @@
         "QualitativeDescription": "A sparsely built area of mediocre character with many garage type houses in an inaccessible neighborhood. Transportation and shopping centers are inconvenient. Most houses have garden facilities. Sewerage is lacking. Section has poor future. ",
         "RandomLat": 42.455999999999804,
         "RandomLong": -83.15999999999958,
-        "MedianIncome": "29650",
+        "MedianIncome": 29650,
         "CensusTract": "26125171600",
         "PercentBlack": 0.5163727959697733
     },
@@ -12240,7 +12240,7 @@
         "QualitativeDescription": "Scattered throughout the area are a fair number of garage type houses built on the rear of lots. These houses are valued as low as $1800 and hurt the streets where they are in any great number. The neighborhood on the whole is a good working-man's section and demand has held up rentals, although it is doubtful that they will hold in view of the general decline. Double fare to Detroit proper somewhat limits appeal. Houses on Stratford between Marshfield and the 8-Mile Road are all small frame dwellings, most of which do not have basements. ",
         "RandomLat": 42.4599999999998,
         "RandomLong": -83.14399999999956,
-        "MedianIncome": "61636",
+        "MedianIncome": 61636,
         "CensusTract": "26125173400",
         "PercentBlack": 0.04454260997607215
     },
@@ -12317,7 +12317,7 @@
         "QualitativeDescription": "This is a mediocre neighborhood of cheaply constructed houses, many of which are garage type on the rear of lots. The streets are unpaved but sidewalks are in. The removal of Ford production in Highland Park adversely affected employment of residents but occupancy remains high because of low rents. Neighborhood stores are inadequate. Transportation is double fare; 12 cents, to Detroit, by trolley. ",
         "RandomLat": 42.4599999999998,
         "RandomLong": -83.13199999999955,
-        "MedianIncome": "60795",
+        "MedianIncome": 60795,
         "CensusTract": "26125173500",
         "PercentBlack": 0.08531521328803322
     },
@@ -12386,7 +12386,7 @@
         "QualitativeDescription": "A small area of fair houses unfavorably affected by locations in Hazel Park.",
         "RandomLat": 42.455999999999804,
         "RandomLong": -83.10399999999952,
-        "MedianIncome": "43294",
+        "MedianIncome": 43294,
         "CensusTract": "26125175300",
         "PercentBlack": 0.1643535427319211
     },
@@ -12443,7 +12443,7 @@
         "QualitativeDescription": "85% developed. All utilities. Restricted. Well established area. Good class of occupants. Unpaved alleys. Threatened encroachment, Italian from the red area southeast. Some higher income families moving out. Mixed type housing. Neighborhood past its peak. Some duplexes on Bayliss Ave. cost $12,000 up to $30,000. Neighborhood probably stabilized at present levels. McNicholls Road is a definite dividing line between this and area \"A-3\". Encroachment rates the area 3rd grade. *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.41199999999983,
         "RandomLong": -83.12399999999954,
-        "MedianIncome": "21182",
+        "MedianIncome": 21182,
         "CensusTract": "26163530100",
         "PercentBlack": 0.9539087211929508
     },
@@ -12504,7 +12504,7 @@
         "QualitativeDescription": "Another outlying town dependent on Detroit for its livlihood.  Area is about 60% built wiht mostly frame singles of modest character.  Development is slow and it is doubtful that any volume of new construction will come.  Good shopping facilities are available on Van Dyke and Ten Mile Road.  Transportation is by bus only on Van Dyke.  There are a few good houses on Warren, the best street in town.",
         "RandomLat": 42.491999999999784,
         "RandomLong": -83.02399999999942,
-        "MedianIncome": "52337",
+        "MedianIncome": 52337,
         "CensusTract": "26099261900",
         "PercentBlack": 0.22347707049965776
     },
@@ -12565,7 +12565,7 @@
         "QualitativeDescription": "An area just North of the City Limits of Detroit sparsely built except along the Eight Mile Road and near Van Dyke.  Houses are mediocre and general appeal of the area is just fair.  Future trend does not appear very favorable.  This was really an overdevelopment of the 1920's.",
         "RandomLat": 42.455999999999804,
         "RandomLong": -83.02799999999942,
-        "MedianIncome": "28892",
+        "MedianIncome": 28892,
         "CensusTract": "26099263800",
         "PercentBlack": 0.5206821480406386
     },
@@ -12670,7 +12670,7 @@
         "QualitativeDescription": "An outlying town of scattered development most of which is concentrated near Gratiot Ave.  Housing is similar in most respects to East Detroit, but distance to employment centers definitely limits appeal.  Bus transportation is available only on Gratiot Ave.  Negro is concentrated South of Church Street between Macomb and Pinehurst.",
         "RandomLat": 42.51199999999977,
         "RandomLong": -82.9319999999993,
-        "MedianIncome": "45093",
+        "MedianIncome": 45093,
         "CensusTract": "26099255300",
         "PercentBlack": 0.23861480075901328
     },
@@ -12815,7 +12815,7 @@
         "QualitativeDescription": "A mediocre area of scattered development with all types of houses some fair and many poor without conveniences.  Future of the town is not very favorable, although there has been a fair amount of new construction.  Original restrictions were easily broken with the result that a very heterogeneous pattern has followed.  With proper control this section could have developed into a desirable neighborhood, but it is very doubtful that any material improvement will be experienced.  The bulk of the houses are built East of Greater Mack and North of Nine Mile Road.  Lake shore frontages are somewhat more desirable, but the improvements are not noticeably better than the rest of the area.  Distance to employment, social and shopping centers is retarding development.  General reputation of village is only fair.",
         "RandomLat": 42.4679999999998,
         "RandomLong": -82.89599999999926,
-        "MedianIncome": "52813",
+        "MedianIncome": 52813,
         "CensusTract": "26099251700",
         "PercentBlack": 0.10063784549964565
     },
@@ -12892,7 +12892,7 @@
         "QualitativeDescription": "A fair section with the best houses in the first block West of Gratiot between Nine Mile Rd. and Deerfield.  Distance to employment centers limits appeal and transportation is available only on Gratiot Ave.  Future of this town is not particularly favorable, but this is the best part of East Detroit and, as such, the most stable.",
         "RandomLat": 42.4639999999998,
         "RandomLong": -82.96799999999935,
-        "MedianIncome": "36468",
+        "MedianIncome": 36468,
         "CensusTract": "26099258900",
         "PercentBlack": 0.5407488986784141
     },
@@ -12933,7 +12933,7 @@
         "QualitativeDescription": "This outlying town of mixed type housing is a fairly desirable place to live.  Local employment is limited but transportation to Detroit is ample although slow.  A complete business center is available at Division & Grand River Road.  Development is slow and not likely to be speeded up.  Along Wilmarth & Oakland are the best houses, some valued up to $7500-8000, but there are only about 10-15 such units in the town.  The balance are substantial older houses in fair condition although threatened with obsolescence.  Decline will be slow because of suburban character.",
         "RandomLat": 42.4599999999998,
         "RandomLong": -83.37199999999984,
-        "MedianIncome": "75625",
+        "MedianIncome": 75625,
         "CensusTract": "26125165100",
         "PercentBlack": 0.08368408021787571
     },
@@ -13006,7 +13006,7 @@
         "QualitativeDescription": "This heterogeneous mixture of properties, some good and some poor, are spread out along both sides of Grand Rive Blvd., the main Highway to Lansing.  If there is a choice, property South of the Blvd. is better than that on the North side.  Section is distant from employment centers and shopping centers are inadequate.  Future development will probably be of a similar character.  Area is now about 15% built.  Transportation to Detroit proper is ample but slow.",
         "RandomLat": 42.44799999999981,
         "RandomLong": -83.3359999999998,
-        "MedianIncome": "48285",
+        "MedianIncome": 48285,
         "CensusTract": "26125167300",
         "PercentBlack": 0.1891170978927714
     },
@@ -13067,7 +13067,7 @@
         "QualitativeDescription": "This heterogeneous mixture of properties, some good and some poor, are spread out along both sides of Grand Rive Blvd., the main Highway to Lansing.  If there is a choice, property South of the Blvd. is better than that on the North side.  Section is distant from employment centers and shopping centers are inadequate.  Future development will probably be of a similar character.  Area is now about 15% built.  Transportation to Detroit proper is ample but slow.",
         "RandomLat": 42.42799999999982,
         "RandomLong": -83.28799999999974,
-        "MedianIncome": "51842",
+        "MedianIncome": 51842,
         "CensusTract": "26163554400",
         "PercentBlack": 0.5318818040435459
     },
@@ -13148,7 +13148,7 @@
         "QualitativeDescription": "An isolated community of mediocre houses inconvenient to shopping and employment centers.",
         "RandomLat": 42.40399999999983,
         "RandomLong": -83.28799999999974,
-        "MedianIncome": "36923",
+        "MedianIncome": 36923,
         "CensusTract": "26163554500",
         "PercentBlack": 0.3436476155806334
     },
@@ -13193,7 +13193,7 @@
         "QualitativeDescription": "A fair section isolated from shopping and employment centers.  Area is about 10% built with bungalow and two-story houses on good sized lots.  Future may improve with any volume of additional building, but development appears to be slow.",
         "RandomLat": 42.363999999999855,
         "RandomLong": -83.29199999999975,
-        "MedianIncome": "45764",
+        "MedianIncome": 45764,
         "CensusTract": "26163555300",
         "PercentBlack": 0.5868560105680317
     },
@@ -13230,7 +13230,7 @@
         "QualitativeDescription": "15% improved.  Gas. Water. Electricity.  Some street lights.  Unpaved streets.  Low income group.  Slow development.  No demand.  90 x 132 ft. lots.  8 Mile Rd. is paved.  Cheap construction rating 4th grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.43999999999981,
         "RandomLong": -83.28799999999974,
-        "MedianIncome": "52735",
+        "MedianIncome": 52735,
         "CensusTract": "26163554100",
         "PercentBlack": 0.49133663366336633
     },
@@ -13267,7 +13267,7 @@
         "QualitativeDescription": "Scattered shacks. ",
         "RandomLat": 42.33999999999987,
         "RandomLong": -83.19999999999963,
-        "MedianIncome": "24847",
+        "MedianIncome": 24847,
         "CensusTract": "26163545600",
         "PercentBlack": 0.14681386790625606
     },
@@ -13332,7 +13332,7 @@
         "QualitativeDescription": "R.R. a detriment. Unreliable class of tenants. Cheap apartments and hotels. Vandalism north of the R.R. Removal of Ford plant from Highland Park to Dearborn has left many vacant stores. Pilgrim is a 2-flat street. Population rates the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.40799999999983,
         "RandomLong": -83.12399999999954,
-        "MedianIncome": "21182",
+        "MedianIncome": 21182,
         "CensusTract": "26163530100",
         "PercentBlack": 0.9539087211929508
     },
@@ -13381,7 +13381,7 @@
         "QualitativeDescription": "Apartments on Midland. Removal of Ford Plant from Highland Park left many vacant stores. Area has cheap apartments and hotels. Woodward Ave. & Manchester St. are commercial. Retail establishments are all through the area. Two-story frame predominates, with 2-flat frames. brick veneer and stucco in numbers. Stevens & Ferris are probably the best streets. West of Hamilton frame bungalows predominate. East of Hamilton houses are chiefly frame singles, frame and brick veneer flats and multiples, apartments and hotels. in and about Labelle are rooming houses. Industry and type of population rate the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.40799999999983,
         "RandomLong": -83.0879999999995,
-        "MedianIncome": "11580",
+        "MedianIncome": 11580,
         "CensusTract": "26163553000",
         "PercentBlack": 0.9547325102880658
     },
@@ -13446,7 +13446,7 @@
         "QualitativeDescription": "There are a few better grade 2-flats on Russell and on Hull. Some stores on John R. St. and on McNichols Rd. There are a few misplaced single frame in the $6500 range. On Parkhurst east of John R. St. High foreclosure and turnover due to removal of Ford Plant from Highland Park. Industrial sites along the R.R. Most streets dead end at the R.R. 50% developed. Type of population rate the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.42399999999982,
         "RandomLong": -83.0879999999995,
-        "MedianIncome": "32750",
+        "MedianIncome": 32750,
         "CensusTract": "26163507300",
         "PercentBlack": 0.9272428884026258
     },
@@ -13491,7 +13491,7 @@
         "QualitativeDescription": "Area of negroes and aliens who do not speak English. 50% developed. 4th grade area. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.07999999999949,
-        "MedianIncome": "18438",
+        "MedianIncome": 18438,
         "CensusTract": "26163507200",
         "PercentBlack": 0.9457364341085271
     },
@@ -13532,7 +13532,7 @@
         "QualitativeDescription": "High foreclosure and turnover due to removal of Ford Plant from Highland Park. Negro and alien area. 40% developed. 4th grade area. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.07199999999948,
-        "MedianIncome": "18438",
+        "MedianIncome": 18438,
         "CensusTract": "26163507200",
         "PercentBlack": 0.9457364341085271
     },
@@ -13585,7 +13585,7 @@
         "QualitativeDescription": "Best properties on Gallagher and on Binder. Also few frames on Stockton and on Klinger might get up to the $4000 range. Otherwise the area is as above. 50% developed. Negro colony rated 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.43199999999982,
         "RandomLong": -83.06799999999947,
-        "MedianIncome": "25426",
+        "MedianIncome": 25426,
         "CensusTract": "26163507000",
         "PercentBlack": 0.9536970567121321
     },
@@ -13754,9 +13754,9 @@
         "QualitativeDescription": "Industrial area. Houses on Gaylord are a little above area average. High property turnover probably due to removal of Ford Plant from Highland Park. 10% developed. 4th grade area due to industrial sites and to type of population. *See explanation sheet for Area Descriptions",
         "RandomLat": 42.415999999999826,
         "RandomLong": -83.02799999999942,
-        "MedianIncome": null,
-        "CensusTract": "26163505800",
-        "PercentBlack": null
+        "MedianIncome": 18891,
+        "CensusTract": "26163511000",
+        "PercentBlack": 0.8946459412780656
     },
     {
         "Coordinates": [
@@ -13811,9 +13811,9 @@
         "QualitativeDescription": "Industrial sites mostly vacant along the Ry's both east-west and north-south. Negro concentration. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.40799999999983,
         "RandomLong": -83.07199999999948,
-        "MedianIncome": null,
-        "CensusTract": "26163509100",
-        "PercentBlack": null
+        "MedianIncome": 32006,
+        "CensusTract": "26163510500",
+        "PercentBlack": 0.1539951573849879
     },
     {
         "Coordinates": [
@@ -13872,7 +13872,7 @@
         "QualitativeDescription": "Many streets one and two blocks long and dead end. Type population makes 4th grade area. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.419999999999824,
         "RandomLong": -83.06799999999947,
-        "MedianIncome": "18438",
+        "MedianIncome": 18438,
         "CensusTract": "26163507200",
         "PercentBlack": 0.9457364341085271
     },
@@ -14057,7 +14057,7 @@
         "QualitativeDescription": "15% improved.  Poor transportation.  No utilities.  Few sewers.  Shacks, undeveloped subdivisions and undivided land.  Exisitng development of very poor character.  Industrial sites along the RR.  There is a loose sprinkling of brick bungalows and 2-story frames.  Many structures are of siding and sheet rock.  Stores are on Fenkel St. on Decosta and on Rockdale, Detroit Trust Co. had 60 4-rm frames at $1500-1700.  54 of these have been sold.  South of Fullerton there are widely scattered structures in the $5000 range.  In the southern part, the area Joy Road to Tireman between Southfield and Asbury Park St. there is to be erected a low-cost housing development of 2,150 units.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.40799999999983,
         "RandomLong": -83.26399999999971,
-        "MedianIncome": "20474",
+        "MedianIncome": 20474,
         "CensusTract": "26163544200",
         "PercentBlack": 0.896244131455399
     },
@@ -14118,7 +14118,7 @@
         "QualitativeDescription": "Area of high foreclosure. The best of the area is Conant and streets just off Conant. Removal of Ford Plant from Highland Park probably accounts for the high property turnover. The Charles Avenue low cost housing of 440 dwelling units is to be built in the area from Charles south to Talbott between Buffalo and Mound. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.40799999999983,
         "RandomLong": -83.05199999999945,
-        "MedianIncome": "33584",
+        "MedianIncome": 33584,
         "CensusTract": "26163510600",
         "PercentBlack": 0.1800490883590463
     },
@@ -14179,7 +14179,7 @@
         "QualitativeDescription": "Area is in conversion to rooming houses, tea rooms and apartments. City Contagious Hospital at Hamilton & Clairmount. Considerable number of 4-flats all through the area. Low type population rating the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.37599999999985,
         "RandomLong": -83.0919999999995,
-        "MedianIncome": "29500",
+        "MedianIncome": 29500,
         "CensusTract": "26163532700",
         "PercentBlack": 0.9210526315789473
     },
@@ -14248,7 +14248,7 @@
         "QualitativeDescription": "Obsolete buildings in conversion to rooming houses and light industry. Along Woodward there are singles, 2-flats and large structures 25-40 years old. Custer Street is business. There area  few big rooming-houses on Grand Blvd., up to $10,000. Westminster between Brush & Oakland is well above the area average. On Hague there are a few newer Br. 2-flats priced $7000. Prices given do not comprehend the big old 9-17 room singles or the 6 or more room 2-flats scattered through the area. There is also a scattering of 4-flats, priced in the $8000 range. East of Brush homes are smaller and in poorer condition. Here too are the greater number of 2-flats and 4-flats. Woodward & Oakland are commercial streets. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.37599999999985,
         "RandomLong": -83.06399999999947,
-        "MedianIncome": "20875",
+        "MedianIncome": 20875,
         "CensusTract": "26163511200",
         "PercentBlack": 0.8825422365245374
     },
@@ -14337,7 +14337,7 @@
         "QualitativeDescription": "North of Caniff, neglected and dilapidated. Lynn St. and Cardoni near Lynn, best of the area. On Cameron there are brick veneer 2-flats held at $5000. 4-flats on Philadelphia St. at $4500. Stores on Russell and on Oakland. Area of manufacturing plants, pool halls, second-hand stores, junk yards, 8-flat on Russell near Holbrook. Slums. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.39199999999984,
         "RandomLong": -83.07199999999948,
-        "MedianIncome": "20362",
+        "MedianIncome": 20362,
         "CensusTract": "26163511400",
         "PercentBlack": 0.8624502432551968
     },
@@ -14526,7 +14526,7 @@
         "QualitativeDescription": "Main businesss street Jos. Campau. Industrial along the R.R. whole town dependent upon Chrysler Motors. Lots small usually 30 ft. Mixed type frame construction. Industrial area rating 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.399999999999835,
         "RandomLong": -83.07199999999948,
-        "MedianIncome": "22125",
+        "MedianIncome": 22125,
         "CensusTract": "26163552100",
         "PercentBlack": 0.24274274274274274
     },
@@ -14639,9 +14639,9 @@
         "QualitativeDescription": "High foreclosure area. There are 2-flats with a liberal sprinkling of 3-flats. 2-flats on Grand Blvd. run up to $6000-8000. Otherwise the area is as above. Negro concentration-Benham to Legrand from Mt. Elliot to Foster. Age of buildings and type of population rate the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.383999999999844,
         "RandomLong": -83.03599999999943,
-        "MedianIncome": null,
-        "CensusTract": "26163505800",
-        "PercentBlack": null
+        "MedianIncome": 18891,
+        "CensusTract": "26163511000",
+        "PercentBlack": 0.8946459412780656
     },
     {
         "Coordinates": [
@@ -14740,9 +14740,9 @@
         "QualitativeDescription": "Area of heavy foreclosure. Gratiot is a business street. Large reconditioned frame singles on Iroquois and Seminole, $5000-7000. There are a few higher priced singles on Maxwell. Some higher priced 2-flats on Georgia. Otherwise the area is as above. Properties are cheap frames near the Airport on such streets as Leander, Lyford, Grinnell and Traverse. Grinell is industrial. Car barns at Harper & Gratiot. Negroes on Grinnell, Traverse, Woodlawn, Knowdell, and Iroquois. Type of population rates the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.40799999999983,
         "RandomLong": -83.01999999999941,
-        "MedianIncome": null,
-        "CensusTract": "26163505700",
-        "PercentBlack": null
+        "MedianIncome": 27250,
+        "CensusTract": "26163504800",
+        "PercentBlack": 1.0
     },
     {
         "Coordinates": [
@@ -14793,9 +14793,9 @@
         "QualitativeDescription": "Gratiot Ave. a business street. Area of industrial sites rating 4th grade. ",
         "RandomLat": 42.399999999999835,
         "RandomLong": -82.99999999999939,
-        "MedianIncome": null,
-        "CensusTract": "26163505700",
-        "PercentBlack": null
+        "MedianIncome": 23041,
+        "CensusTract": "26163505500",
+        "PercentBlack": 0.9394957983193277
     },
     {
         "Coordinates": [
@@ -14870,7 +14870,7 @@
         "QualitativeDescription": "On Grand Blvd. 2-flats range $5500-7000 and singles u to $12,000.  There are also a few alrge apartment buildings.  On Vinewood and on 28th Street there are also a few $6000-7000 2-flats.  All types of properties along Warren average higher than the table given.  Otherwise the area is as above.  There is some vandalism on Scotten.  Area of high foreclosure and property turnover.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.35599999999986,
         "RandomLong": -83.10799999999952,
-        "MedianIncome": "10550",
+        "MedianIncome": 10550,
         "CensusTract": "26163522300",
         "PercentBlack": 0.9354005167958657
     },
@@ -14971,7 +14971,7 @@
         "QualitativeDescription": "Industry along RR area in conversion to garages, industrial plants, etc.  Stores along 14th and on McGraw-Now uptown business area to the northeast.  Between Wabash & Trumbull there are a number of 4-flats in the $8000 range.  On Grand Blvd. 2-flats get up to $16,000.  This is a badly mixed area with a very wide price range.  The table above probably covers 90% of the properties.  There is conversion of singles into 2-flats.  On Stanton, Missouri, and on West Grand Blvd. structures are large, mixed between frame and brick veneer.  Age and condition of buildings rate the area 4th grade.  *See explanation sheet for Area Descriptions",
         "RandomLat": 42.35599999999986,
         "RandomLong": -83.08399999999949,
-        "MedianIncome": "9583",
+        "MedianIncome": 9583,
         "CensusTract": "26163522400",
         "PercentBlack": 0.8747534516765286
     },
@@ -15016,7 +15016,7 @@
         "QualitativeDescription": "Cheap shacks *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.42799999999982,
         "RandomLong": -83.2559999999997,
-        "MedianIncome": "25500",
+        "MedianIncome": 25500,
         "CensusTract": "26163541200",
         "PercentBlack": 0.9257598405580468
     },
@@ -15077,7 +15077,7 @@
         "QualitativeDescription": "Industry along RR.  Unreliable class of tenants.  Slum area-fire hazard.  On Modbury, Brush and Woodward there are 6 to 11-flat, apartments at $11,000 to $18,000.  On Medbury there are 2-flats up to $7500.  On Medburyand on Harper there are 7-12 room singles $4000-7500.  Balance of the area is composed of lower priced structures.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.36799999999985,
         "RandomLong": -83.06399999999947,
-        "MedianIncome": "20875",
+        "MedianIncome": 20875,
         "CensusTract": "26163511200",
         "PercentBlack": 0.8825422365245374
     },
@@ -15134,7 +15134,7 @@
         "QualitativeDescription": "High foreclosure area.  Unreliable tenants.  Slum area.  Fire hazards.  Hastings Street mostly stores.  On Garfield and on Canfield near Woodward brick singles are priced up to $8000.  On Canfield and on Brush near Canfield a few 2-flats are priced up to $10,000.  There are big old singles up to 20 rooms on Forest, Hancock and on Warren priced up to $10,000.  On Hancock a few 2-flats are priced up to $10,000.  There are some fairly good singles and 2-flats on Frederick, on Ferry and on Palmor.  There are a few $10,000 4-flats on Kirby but generally the area is as tabled above.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.35999999999986,
         "RandomLong": -83.05599999999946,
-        "MedianIncome": "13435",
+        "MedianIncome": 13435,
         "CensusTract": "26163517500",
         "PercentBlack": 0.7394124380007631
     },
@@ -15215,9 +15215,9 @@
         "QualitativeDescription": "High foreclosures.  Unreliable class of tenants.  Slum area.  Fire hazards.  Vandalism.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.363999999999855,
         "RandomLong": -83.03999999999944,
-        "MedianIncome": null,
-        "CensusTract": "26163519000",
-        "PercentBlack": null
+        "MedianIncome": 20804,
+        "CensusTract": "26163518800",
+        "PercentBlack": 0.8553846153846154
     },
     {
         "Coordinates": [
@@ -15400,7 +15400,7 @@
         "QualitativeDescription": "Active sales due to location of Ford Plant in Dearborn.  There is industry along the RR.  Stores are on Michigan, McGraw & Warren.  Vandalism on Perkins Street.  In the Western part, along Central and to a lesser extent along Casper numbers of singles and 2-flats range higher in price than the schedules given above.  There are some better 2-flats on Bryden and some on Campbell.  On Florida, on Larkin and on Cecil north of Michigan there are 2-flats in the $8000-10,000 range area.  Vast numbers of small fames in the area and without basements.  Industrial and commercial area rating 4th grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.32399999999988,
         "RandomLong": -83.14399999999956,
-        "MedianIncome": "23015",
+        "MedianIncome": 23015,
         "CensusTract": "26163526000",
         "PercentBlack": 0.04415011037527594
     },
@@ -15465,7 +15465,7 @@
         "QualitativeDescription": "Industry along RR.  On Roosevelt and along 25th Street 2-flats are slightly above area averages.  There are a few 4-flats.  Industrial area rating 4th grade.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.343999999999866,
         "RandomLong": -83.0879999999995,
-        "MedianIncome": "17143",
+        "MedianIncome": 17143,
         "CensusTract": "26163522000",
         "PercentBlack": 0.9425465838509317
     },
@@ -15554,9 +15554,9 @@
         "QualitativeDescription": "On Grand Blvd. singles are priced up to $8500.  There are a few $6500 2-flats on Roosevelt.  There are some $6000-10,000 2 and 4-flats along 18th, Ash to Michigan.  There are a few 5-flat to 8-flat apartments in 16th and 17th streets.  Otherwise the area is as above.  There is some vandalism on 17th south of Michigan.  There are factories, coal yards, razed and partially razed buildings.  *See explanation sheet for Area Descriptions.",
         "RandomLat": 42.33599999999987,
         "RandomLong": -83.0919999999995,
-        "MedianIncome": null,
-        "CensusTract": "26163522800",
-        "PercentBlack": null
+        "MedianIncome": 50288,
+        "CensusTract": "26163521300",
+        "PercentBlack": 0.5723809523809524
     },
     {
         "Coordinates": [
@@ -15615,7 +15615,7 @@
         "QualitativeDescription": "Some 2-flats up to $8000 and some 12-room singles up to $11,000 on 14th and on 15th north of Michigan. Otherwise the area is as above. On Wabash and on streets west thereof frames are converting to rooming houses. Age, obsolescence rate the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.347999999999864,
         "RandomLong": -83.0879999999995,
-        "MedianIncome": "17143",
+        "MedianIncome": 17143,
         "CensusTract": "26163522000",
         "PercentBlack": 0.9425465838509317
     },
@@ -15688,7 +15688,7 @@
         "QualitativeDescription": "Converting to rooming-houses, apartments, sales rooms, garages, light manufacturing on Cass, Second & Woodward. Retail shops on Woodward. East of Woodward the downward trend is more pronounced. All mixed sizes and types converting to light housekeeping rate the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.347999999999864,
         "RandomLong": -83.05999999999946,
-        "MedianIncome": "33505",
+        "MedianIncome": 33505,
         "CensusTract": "26163520300",
         "PercentBlack": 0.20460978568540233
     },
@@ -15765,7 +15765,7 @@
         "QualitativeDescription": "Area of stores and business. Many untenable, boarded up houses. Area of high foreclosure. Unreliable tenants. Slums and fire hazards. Vandalism. Negro low cost housing project from Mack to Browster between Beaubien and Hastings of 949 units. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.33999999999987,
         "RandomLong": -83.03199999999943,
-        "MedianIncome": "44282",
+        "MedianIncome": 44282,
         "CensusTract": "26163517000",
         "PercentBlack": 0.55879726108961
     },
@@ -15898,7 +15898,7 @@
         "QualitativeDescription": "Industry on Jefferson with offensive odors. High foreclosure. Unreliable class of tenants. Slum area. Fire hazard. Vandalism. There are 15 or more apartment buildings in the area valued at $12,500 to $36,000. Near Grand Blvd., St. Paul to Larned is industrial. Trend toward industry all along the R.R. Jefferson Ave. has warehouses, cheap hotels and rooming houses. Jefferson Ave. to the river is industrial. McDougall and Elmwood slightly better than the area averages. 2-flats on Grand Blvd. and on Agnes Street rum up to $11,000-$15,000. Old big singles on Grand Blvd. cost up to $100,000. Cnaton and Concord east and north of Mt. Elliot Cemetery are slightly above area averages. Meldrum in the vicinity of Gratiot is slightly above area averages. Packard Motor Car Co. is in the extreme northeast. Gratiot is a continuous retail street with a major shopping center at Chene and a minor center at Mt. Elliot. Age, obsolescence and grade of residents make this a 4th class area. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.33599999999987,
         "RandomLong": -83.03199999999943,
-        "MedianIncome": "41250",
+        "MedianIncome": 41250,
         "CensusTract": "26163517100",
         "PercentBlack": 0.6131578947368421
     },
@@ -15943,7 +15943,7 @@
         "QualitativeDescription": "Thinly buily cheap construction. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.415999999999826,
         "RandomLong": -83.21199999999965,
-        "MedianIncome": "23700",
+        "MedianIncome": 23700,
         "CensusTract": "26163540400",
         "PercentBlack": 0.9778481012658228
     },
@@ -16096,9 +16096,9 @@
         "QualitativeDescription": "Stores on Fordson and on Bayside. North of Oakwood the area is almost 100% residential. The area is 25% developed. Industries will probably move in. Residents of low income group. Area rated 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.2839999999999,
         "RandomLong": -83.13599999999956,
-        "MedianIncome": null,
-        "CensusTract": "26163524600",
-        "PercentBlack": null
+        "MedianIncome": 27353,
+        "CensusTract": "26163524900",
+        "PercentBlack": 0.1135175504107543
     },
     {
         "Coordinates": [
@@ -16249,7 +16249,7 @@
         "QualitativeDescription": "Low income group. Throughout the area there is conversion and remodeling. There are a few big houses on Campbell north of Vernor Highway at $7000. There is a scattering of 4-flats throughout the area. Otherwise the area is as above. There are stores on Vernor Highway. Sales have been active at low prices due to movement of Ford Plant to Dearborn from Highland Park. The area has many industries. South of Fort Street there is a garbage works, Dog Pound and Gas Works. Age and type of area rates it 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.311999999999884,
         "RandomLong": -83.10399999999952,
-        "MedianIncome": "34800",
+        "MedianIncome": 34800,
         "CensusTract": "26163523200",
         "PercentBlack": 0.018606990193613275
     },
@@ -16374,9 +16374,9 @@
         "QualitativeDescription": "There are a few $5000-6500 2-flats on Green. Otherwise the area is as above. Stores along Jefferson. Good sales area due to location of Ford Plant in Dearborn. There is a sprinkling of 3-flats throughout the area. All residences are near some industrial plant. All have R.R. and industrial smoke and soot. There is a general sprinkling of razed and boarded up structures. Kaier Street just off the western end of Fort is a street of brick veneer singles, above the area average. Sewage disposal plant is in the extreme southwest section of the area. Portland, Peterson and Copeland are negro streets. Age and type of area rate it 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.307999999999886,
         "RandomLong": -83.09999999999951,
-        "MedianIncome": null,
-        "CensusTract": "26163524600",
-        "PercentBlack": null
+        "MedianIncome": 14087,
+        "CensusTract": "26163525000",
+        "PercentBlack": 0.391304347826087
     },
     {
         "Coordinates": [
@@ -16539,9 +16539,9 @@
         "QualitativeDescription": "Fort Street and Lafayette Street run to manufacturing. There is vandalism in the area. Heavy concentration low grade aliens, Cherry to Lafayette between 2nd and Trumbull. Big old singles on Abbott and on Lafayette. A few large 2-flats up to $10,000 on 12th Street. Big singles, 8-17 rooms, on Lafayette between 3rd, 4th, valued up to $20,000. Also some big singles in the same block on Howard. North end of 2nd and 3rd Streets have some old singles that cost up to $15,000 to build. Otherwise the area is as above. Rooming houses. Undesirable aliens. Baseball park at Michigan & Trumbull. All available land used for baseball parking. Slum clearance contemplated from Verner to Howard between 4th and Trumbull. Type of population rate the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.31599999999988,
         "RandomLong": -83.11199999999953,
-        "MedianIncome": "31352",
-        "CensusTract": "26163523800",
-        "PercentBlack": 0.09564833222884912
+        "MedianIncome": 23897,
+        "CensusTract": "26163524000",
+        "PercentBlack": 0.0851063829787234
     },
     {
         "Coordinates": [
@@ -16584,9 +16584,9 @@
         "QualitativeDescription": "Conversion to light housekeeping going on. Better element about all moved out. Shift of population rates the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.35999999999986,
         "RandomLong": -82.99199999999938,
-        "MedianIncome": null,
-        "CensusTract": "26163513800",
-        "PercentBlack": null
+        "MedianIncome": 26667,
+        "CensusTract": "26163515600",
+        "PercentBlack": 0.9131034482758621
     },
     {
         "Coordinates": [
@@ -16661,9 +16661,9 @@
         "QualitativeDescription": "Near industry. Unreliable tenants. R.R. Heavy traffic, odors, fumes, smoke. A few 2-flats on Gladwin are priced up to $6500 and on Beniteau up to $8500. A few 4-flats on St. Jean and on Boniteau are priced up to $10,000. Otherwise the area is as above. On St. Jean there are rooming houses. Type of population and nearness of industry rate the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.36799999999985,
         "RandomLong": -82.97199999999935,
-        "MedianIncome": null,
-        "CensusTract": "26163513800",
-        "PercentBlack": null
+        "MedianIncome": 24441,
+        "CensusTract": "26163513600",
+        "PercentBlack": 0.9192789968652038
     },
     {
         "Coordinates": [
@@ -16706,7 +16706,7 @@
         "QualitativeDescription": "Higher bracket buildings are on Algonquin. $3000-5000 class on Conners. 8-16 room rooming-houses on Algonquin and on Navahoe range $6000-9000. 2-flats on Navahoe $6000-6600. Otherwise the area is as above. Type of population and nearness to industry rate the area 4th grade. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.36799999999985,
         "RandomLong": -82.95599999999934,
-        "MedianIncome": "23610",
+        "MedianIncome": 23610,
         "CensusTract": "26163513700",
         "PercentBlack": 0.9450269198073109
     },
@@ -16767,7 +16767,7 @@
         "QualitativeDescription": "",
         "RandomLat": 42.451999999999806,
         "RandomLong": -83.15199999999957,
-        "MedianIncome": "81875",
+        "MedianIncome": 81875,
         "CensusTract": "26125173300",
         "PercentBlack": 0.11569731081926204
     },
@@ -16848,7 +16848,7 @@
         "QualitativeDescription": "This is a heterogeneous mixture of all types of housing, the majority of which is of shack type, although there are a few fair units in the area. The section is about 25% built. No paving, but sidewalks are in. Drainage is poor. Transportation is poor. Industry is scattered along along the RR tracks. Many of the original structures were garage houses built as temporary quarters. The city is making an attempt to eliminate them, but only nominal success has been achieved so far. Inconvenient to shopping centers. ",
         "RandomLat": 42.4639999999998,
         "RandomLong": -83.11999999999954,
-        "MedianIncome": "60224",
+        "MedianIncome": 60224,
         "CensusTract": "26125173000",
         "PercentBlack": 0.08191690273843248
     },
@@ -16953,7 +16953,7 @@
         "QualitativeDescription": "A section about 25% developed with scattered poor houses in fairly good demand because of cost and rental. There is no paving in the section although sidewalks are in on most streets. Sewer assessments may be levied very soon as sewers are lacking in most of the area. The section is convenient to the Chevrolet plant for employment. Buses on John R Street furnish only half hour service. Although this section has many inconveniences, demand is fairly constant and rental fluctuations were not very wide. Future of the area is only fair and restrictions are lacking. ",
         "RandomLat": 42.471999999999795,
         "RandomLong": -83.10799999999952,
-        "MedianIncome": "36879",
+        "MedianIncome": 36879,
         "CensusTract": "26125175000",
         "PercentBlack": 0.16064922159655515
     },
@@ -16990,7 +16990,7 @@
         "QualitativeDescription": "Cheap construction. Scattered weak spot. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.415999999999826,
         "RandomLong": -83.19999999999963,
-        "MedianIncome": "23700",
+        "MedianIncome": 23700,
         "CensusTract": "26163540400",
         "PercentBlack": 0.9778481012658228
     },
@@ -17099,7 +17099,7 @@
         "QualitativeDescription": "An outlying area developed during the expansion period of the 1920's. Housing is all mediocre and general appeal is lacking. Distance to employment centers is detrimental as is inconvenience of trasnportation except on Gratiot Avenue. Area is about 25% developed with future prospects not very favorable. ",
         "RandomLat": 42.4639999999998,
         "RandomLong": -82.95999999999934,
-        "MedianIncome": "36468",
+        "MedianIncome": 36468,
         "CensusTract": "26099258900",
         "PercentBlack": 0.5407488986784141
     },
@@ -17144,7 +17144,7 @@
         "QualitativeDescription": "A poor area promoted by selling three lots for price of one. Development is concentrated near Ford Road. Housing is widely scattered, paving and sidewalks are lacking and general appearance of area is poor. Transportation is available only along Ford Road. ",
         "RandomLat": 42.32399999999988,
         "RandomLong": -83.3359999999998,
-        "MedianIncome": "52219",
+        "MedianIncome": 52219,
         "CensusTract": "26163569700",
         "PercentBlack": 0.013318284424379233
     },
@@ -17193,7 +17193,7 @@
         "QualitativeDescription": "A sparsely built area of questionable future. Many of the present structures are garage type houses built at the rear of lots. Occupancy remains high because of low rent and convenience to Ford Motor Company. Transportation is available by bus and only on Ford Road. ",
         "RandomLat": 42.26799999999991,
         "RandomLong": -83.37599999999985,
-        "MedianIncome": "43158",
+        "MedianIncome": 43158,
         "CensusTract": "26163566800",
         "PercentBlack": 0.14881780250347706
     },
@@ -17266,7 +17266,7 @@
         "QualitativeDescription": "A sparsely built area developing as a negro colony. Section is inconvenient to shopping centers- sewers are lacking. Schools are incovenient. Although comparatively new its future is very doubtful. ",
         "RandomLat": 42.25999999999991,
         "RandomLong": -83.37999999999985,
-        "MedianIncome": "39482",
+        "MedianIncome": 39482,
         "CensusTract": "26163585600",
         "PercentBlack": 0.7644432040189785
     },
@@ -17319,7 +17319,7 @@
         "QualitativeDescription": "This heterogeneous section which has some substantial homes intermingled with the garage type houses is almost entirely occupied by negroes. Lots were sold originally in groups of three for the price of one and area is, therefore, somewhat scattered in development. Transportation is available only on Michigan Rd. Sewers are lacking except in the first few blocks South of Michigan Rd. Occupancy is high because of cheap rents, but there are several abandoned houses in the section most of which are unfit for occupancy. Schools are adequate and shopping facilities are available at Inkster Rd. and Michigan Rd. intersection. There is little future for an area as poorly built as this one. *See explanation sheet for Area Descriptions. [a]: This is a workingman's neighborhood of primary garage type homes. Sewers are lacking except in the first blocks South of Michigan Rd. Transportation is available only on Michigan Rd. Schools are adequate and shopping facilities are fair at Michigan Rd. and Inkster Rd. intersection. Many of the workers are employed at the Ford Motor Co. Lots were sold originally in groups of three for the price of one and buildings are, therefore, scattered. New building is small type houses as no restrictions are in effect. There is very little future for an area of this kind. Development is about 20% with vase areas of unbuilt acreage. *See explanation sheet for Area Descriptions",
         "RandomLat": 42.2839999999999,
         "RandomLong": -83.29199999999975,
-        "MedianIncome": "27522",
+        "MedianIncome": 27522,
         "CensusTract": "26163571000",
         "PercentBlack": 0.7931570762052877
     },
@@ -17428,9 +17428,9 @@
         "QualitativeDescription": "This is a heterogeneous mixture of hotels, rooming houses, one-family and two-family houses in high demand because of proximity to the Ford Motor Company. Rentals fluctuate rapidly as work volume changes. Many of these residents are very transient and as a whole unstable in point of ability to buy. Area is most unattractive and its future will probably be a continual decline. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.31999999999988,
         "RandomLong": -83.15999999999958,
-        "MedianIncome": null,
-        "CensusTract": "26163573501",
-        "PercentBlack": null
+        "MedianIncome": 22891,
+        "CensusTract": "26163573500",
+        "PercentBlack": 0.04574444688805806
     },
     {
         "Coordinates": [
@@ -17497,7 +17497,7 @@
         "QualitativeDescription": "Convenience to employment at Ford Motor Company has stabilized demand in these areas in spite of the poor housing and unattractive neighborhood. Many of the homes are garage type built at rear of lots. ",
         "RandomLat": 42.2879999999999,
         "RandomLong": -83.18399999999961,
-        "MedianIncome": "49878",
+        "MedianIncome": 49878,
         "CensusTract": "26163578500",
         "PercentBlack": 0.11914641375222289
     },
@@ -17578,7 +17578,7 @@
         "QualitativeDescription": "An undesirable neighborhood of heterogeneous properties in varying conditions of repair. Many of the houses are of garage type built at the rear of lots. Others are fair, but the mixed population (Negroes and Polish) precludes the area from a better rating. Occupancy is high primarily because of convenience to employment centers. Shopping and transportation is convenient. Many doubled-up families in section. The Land Savings Bank will lend in this area at very conservative terms. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.26399999999991,
         "RandomLong": -83.15199999999957,
-        "MedianIncome": "17998",
+        "MedianIncome": 17998,
         "CensusTract": "26163579300",
         "PercentBlack": 0.9731051344743277
     },
@@ -17739,7 +17739,7 @@
         "QualitativeDescription": "This neighborhood is a continuation of the \"D\" section in River Rouge. Cheap rents and convenience to industrial areas are responsible for continued demand for properties. Many of the houses are basmentless and without central heat. Negro highly concentrated North of Saliotte Ave. with mixed foreign South of that street. The local Savings Banks will lend to selected horrowers at very conservative terms, but Detroit institutions will not lend in these areas. ",
         "RandomLat": 42.25199999999992,
         "RandomLong": -83.15599999999958,
-        "MedianIncome": "28786",
+        "MedianIncome": 28786,
         "CensusTract": "26163579700",
         "PercentBlack": 0.23574386747371776
     },
@@ -17836,7 +17836,7 @@
         "QualitativeDescription": "A section of heterogeneous development convenient to schools, shopping centers, transportation and employment centers. Many of the houses are garage type and others have no basements or conveniences. All properties are favorable affected by good local goverment. General appearance of the neighborhood is very mediocre. ",
         "RandomLat": 42.21199999999994,
         "RandomLong": -83.16399999999959,
-        "MedianIncome": "54083",
+        "MedianIncome": 54083,
         "CensusTract": "26163580600",
         "PercentBlack": 0.0033829499323410014
     },
@@ -17873,7 +17873,7 @@
         "QualitativeDescription": "Cheap construction. Gravel streets. Sewers, water, gas, electricity. Transportation by bus on Fenkel and McNichols Road. Concrete Products Corp. and second hand building materials. Area rates 4th class. ",
         "RandomLat": 42.41199999999983,
         "RandomLong": -83.19199999999962,
-        "MedianIncome": "30246",
+        "MedianIncome": 30246,
         "CensusTract": "26163537600",
         "PercentBlack": 0.946292340555386
     },
@@ -17950,7 +17950,7 @@
         "QualitativeDescription": "A section of heterogeneous development convenient to schools, shopping centers, transportation and employment. Property values are unfavorably affected by proximity to the chemical works at the Southern boundar. There are many garage type houses built at rear of lots and others without basements or conveniences. Demand is good because of convenience to employment centers. All properties in Wyandotte are favorable affected by good government. ",
         "RandomLat": 42.18799999999995,
         "RandomLong": -83.15999999999958,
-        "MedianIncome": "54219",
+        "MedianIncome": 54219,
         "CensusTract": "26163580800",
         "PercentBlack": 0.022693997071742314
     },
@@ -18007,7 +18007,7 @@
         "QualitativeDescription": "A sparsely built section of poor houses in varying conditions of repair",
         "RandomLat": 42.183999999999955,
         "RandomLong": -83.17999999999961,
-        "MedianIncome": "57656",
+        "MedianIncome": 57656,
         "CensusTract": "26163595000",
         "PercentBlack": 0.011615900877645843
     },
@@ -18060,7 +18060,7 @@
         "QualitativeDescription": "A very poor area really an extension of Riverview. Future is uncertain, but prospects appear more unstable. Development is about 20% with expansion very doubtful. ",
         "RandomLat": 42.167999999999964,
         "RandomLong": -83.17999999999961,
-        "MedianIncome": "50724",
+        "MedianIncome": 50724,
         "CensusTract": "26163594000",
         "PercentBlack": 0.0028101164191087916
     },
@@ -18105,7 +18105,7 @@
         "QualitativeDescription": "35% improved. Unpaved and poorly graded streets. Gas, light, water, sewers. Stores on 8 Mile Road. This area extends 3 blocks north of the city limits",
         "RandomLat": 42.43999999999981,
         "RandomLong": -83.15599999999958,
-        "MedianIncome": "32713",
+        "MedianIncome": 32713,
         "CensusTract": "26163539000",
         "PercentBlack": 0.9405191059841385
     },
@@ -18162,7 +18162,7 @@
         "QualitativeDescription": "On Auburn below Paul the First National Bank Receiver has 14 frames held $2400-$3000. Section is 20% developed. Macadam and gravel streets. Cheap construction rating 4th class. *See explanation sheet for Area Descriptions. ",
         "RandomLat": 42.33599999999987,
         "RandomLong": -83.22399999999966,
-        "MedianIncome": "30807",
+        "MedianIncome": 30807,
         "CensusTract": "26163545700",
         "PercentBlack": 0.4446172993154947
     },
@@ -18211,8 +18211,8 @@
         "QualitativeDescription": "Shacks-sparse settlement. Near Ford's Soy Bean Farm. ",
         "RandomLat": 42.35199999999986,
         "RandomLong": -83.20399999999964,
-        "MedianIncome": null,
-        "CensusTract": "26163547200",
-        "PercentBlack": null
+        "MedianIncome": 19005,
+        "CensusTract": "26163545400",
+        "PercentBlack": 0.9238372093023256
     }
 ]

@@ -1,0 +1,38 @@
+Internal node
+Is it a mammal?
+    Internal node
+    Does it live in water?
+        Internal node
+        Is it bigger than a car?
+            Leaf
+            a whale
+            Leaf
+            a dolphin
+        Internal node
+        Is it a domestic animal?
+            Internal node
+            Does it have fur?
+                Leaf
+                a cat
+                Leaf
+                a parrot
+            Internal node
+            Is it bigger than a breadbox?
+                Leaf
+                an elephant
+                Leaf
+                a rabbit
+    Internal node
+    Does it fly?
+        Internal node
+        Does it have colorful feathers?
+            Leaf
+            a peacock
+            Leaf
+            an eagle
+        Internal node
+        Does it live in water?
+            Leaf
+            a fish
+            Leaf
+            a frog

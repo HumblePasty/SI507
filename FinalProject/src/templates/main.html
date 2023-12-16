@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Artist Relationship Graph</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.19.0/cytoscape.min.js"></script>
+    <!-- add the stylesheet for the graph -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.19.0/cytoscape.min.css"/>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+
+</head>
+<body>
+<div id="sidebar">
+    <h1>Artist Network -</h1>
+    <h3>Rolling Stone: 500 Greatest Albums of All Time: 2021 edition</h3>
+    <div>
+        <label for="layout-select">Choose a layout: </label>
+        <select id="layout-select">
+            <option value="cose">Cose</option>
+            <option value="circle">Circle</option>
+            <option value="grid">Grid</option>
+            <option value="random">Random</option>
+            <option value="concentric">Concentric</option>
+            <option value="breadthfirst">Breadthfirst</option>
+        </select>
+        <button id="zoom-layout" class="cy-manage">Zoom</button>
+        <button id="reset-layout" class="cy-manage">Reset</button>
+        <div>
+            <input type="text" id="search-box" placeholder="Search artists...">
+            <button id="search-btn">Search</button>
+        </div>
+    </div>
+    <hr>
+    <h4>Artist Properties</h4>
+    <table id="network-properties" class="styled-table">
+        <tr>
+            <th>Property</th>
+            <th>Value</th>
+        </tr>
+        <tr>
+            <td>Number of Songs Used</td>
+            <td>100</td>
+        </tr>
+        <tr>
+            <td>Total Number of Artists</td>
+            <td id="total-artists">-</td>
+        </tr>
+        <tr>
+            <td>Degree</td>
+            <td id="degree-num">-</td>
+        </tr>
+    </table>
+</div>
+<div id="cy"></div>
+<script>
+    var cy
+
+    fetch('/graph-data')
+        .then(response => response.json())
+        .then(graphData => {
+            cy = cytoscape({
+                container: document.getElementById('cy'),
+                elements: graphData,
+                style: [
+                    {
+                        selector: 'node',
+                        style: {
+                            'background-color': 'mapData(degree, 0, maxDegree, blue, red)',
+                            'width': 'mapData(degree, 0, maxDegree, 20, 60)',
+                            'height': 'mapData(degree, 0, maxDegree, 20, 60)',
+                            'label': 'data(label)',
+                            'text-valign': 'center',
+                            'text-halign': 'center',
+                            'color': '#fff',
+                            'text-outline-width': 2,
+                            'text-outline-color': '#888'
+                        }
+                    },
+                    {
+                        selector: 'node:selected',
+                        style: {
+                            'overlay-color': '#87CEEB',
+                            'overlay-padding': 10,
+                            'overlay-opacity': 0.25
+                        }
+                    },
+                    {
+                        selector: 'edge',
+                        style: {
+                            'width': 3,
+                            'line-color': '#ccc',
+                            'curve-style': 'bezier',
+                            'label': 'data(label)',
+                            'text-margin-x': 5,
+                            'text-rotation': 'autorotate'
+                        }
+                    },
+                    {
+                        selector: 'edge:hover',
+                        style: {
+                            'text-opacity': 1,
+                        }
+                    }
+                ],
+                layout: {
+                    name: 'cose',
+                    idealEdgeLength: 100,
+                    nodeOverlap: 20,
+                    refresh: 20,
+                    fit: true,
+                    padding: 30,
+                    randomize: false,
+                    componentSpacing: 100,
+                    nodeRepulsion: 400000,
+                    edgeElasticity: 100,
+                    nestingFactor: 5,
+                    gravity: 80,
+                    numIter: 1000,
+                    initialTemp: 200,
+                    coolingFactor: 0.95,
+                    minTemp: 1.0
+                }
+            });
+
+            // Calculate the maximum degree of the nodes
+            // let maxDegree = Math.max.apply(Math, cy.nodes().map(function (n) {
+            //    return n.degree();
+            // }).toArray());
+
+            // Update the style with the calculated max degree
+            {#cy.style()#}
+            {#    .selector('node')#}
+            {#    .style({#}
+            {#        'background-color': 'mapData(degree, 0, ' + maxDegree + ', blue, red)',#}
+            {#        'width': 'mapData(degree, 0, ' + maxDegree + ', 20, 60)',#}
+            {#        'height': 'mapData(degree, 0, ' + maxDegree + ', 20, 60)'#}
+            {#    })#}
+            {#    .update();#}
+            cy.style()
+                .selector('edge')
+                .style({
+                    'label': 'data(label)',
+                    'text-opacity': 0, // initially hide labels
+                    'font-size': 8, // smaller font size
+                    'curve-style': 'bezier',
+                    // ... other edge styles ...
+                })
+                .update();
+
+            // Define hover style for edges to show labels
+            cy.style()
+                .selector('edge:hover')
+                .style({
+                    'text-opacity': 1 // show label on hover
+                })
+                .update();
+
+            // Define the 'hidden' class in the Cytoscape style to hide elements
+            cy.style()
+                .selector('.hidden')
+                .style({
+                    'display': 'none'
+                })
+                .update(); // Ensure the new style is applied
+
+            // Update the network properties table
+            document.getElementById('total-artists').innerHTML = cy.nodes().size();
+            // if a node is selected, update the centrality values
+            cy.on('select', 'node', function (evt) {
+                {#var node = evt.target;#}
+                document.getElementById('degree-num').innerHTML = (evt.target.degree() / cy.nodes().size()).toFixed(2);
+            });
+        });
+
+    function updateLayout(layoutName) {
+        var layout = cy.layout({name: layoutName});
+        layout.run();
+    }
+
+    document.getElementById('layout-select').addEventListener('change', function () {
+        updateLayout(this.value);
+    });
+
+    document.getElementById('zoom-layout').addEventListener('click', function () {
+        cy.fit();
+    });
+
+    document.getElementById('reset-layout').addEventListener('click', function () {
+        cy.reset();
+        document.getElementById('layout-select').value = 'cose';
+        document.getElementById('search-box').value = '';
+        document.getElementById('degree-num').innerHTML = '-';
+        cy.elements().removeClass('hidden');
+        cy.layout({name: 'cose'}).run();
+    });
+
+    document.getElementById('search-btn').addEventListener('click', function () {
+        var searchTerm = document.getElementById('search-box').value.toLowerCase(); // Get user input and convert it to lowercase
+        cy.elements().removeClass('hidden'); // Remove the 'hidden' class that might have been set previously
+
+        if (searchTerm) {
+            // Find all nodes that match the search term
+            var matchingNodes = cy.nodes().filter(function (ele) {
+                return ele.data('label').toLowerCase().includes(searchTerm);
+            });
+
+            // get the edges that are connected to the matching nodes
+            var connectedEdges = matchingNodes.connectedEdges();
+            // get the nodes that are connected to the connected nodes
+            var connectedNodes = connectedEdges.connectedNodes();
+
+            // merge all the elements into one collection
+            var relatedElements = matchingNodes.union(connectedNodes).union(connectedEdges);
+
+            // hide all the elements that are not in the collection
+            cy.elements().not(relatedElements).addClass('hidden');
+
+            // zoom to the collection
+            cy.fit(relatedElements, 50); // 50 padding
+        } else {
+            // If the search box is empty, fit the viewport to all elements
+            cy.fit();
+        }
+    });
+
+</script>
+
+</body>
+</html>

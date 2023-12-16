@@ -13,6 +13,6 @@ Assignments and project repository for SI507: Intermediate Programming, Universi
 
 **Demo: Click [here](https://drive.google.com/file/d/1ruVh3IF97ZobWIkNWTcBENRD0Ld8ZzPk/view?usp=sharing) or the image to redirect**
 
-[<img src="README.assets/thumbnail.jpg">](https://drive.google.com/file/d/1ruVh3IF97ZobWIkNWTcBENRD0Ld8ZzPk/view?usp=sharing "Demo Video")
+[<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/thumbnail.jpg">](https://drive.google.com/file/d/1ruVh3IF97ZobWIkNWTcBENRD0Ld8ZzPk/view?usp=sharing "Demo Video")
 
 [**Read more**](https://github.com/HumblePasty/SI507/tree/master/FinalProject)

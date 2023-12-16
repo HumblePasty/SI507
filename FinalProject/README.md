@@ -109,4 +109,12 @@ Read data structure doc explaining fields and meanings [HERE](https://github.com
 
 
 
-For more information and demo video, Click [HERE](https://github.com/HumblePasty/SI507/blob/master/FinalProject/Resources/Project_Submission_haolinli.md#demo)
+## Demo
+
+**Click [here](https://drive.google.com/file/d/1ruVh3IF97ZobWIkNWTcBENRD0Ld8ZzPk/view?usp=sharing) or the image to redirect**
+
+[<img src="https://rsdonkeyrepo1.oss-cn-hangzhou.aliyuncs.com/img/thumbnail.jpg">](https://drive.google.com/file/d/1ruVh3IF97ZobWIkNWTcBENRD0Ld8ZzPk/view?usp=sharing "Demo Video")
+
+
+
+For more information, Click [HERE](https://github.com/HumblePasty/SI507/blob/master/FinalProject/Resources/Project_Submission_haolinli.md)
